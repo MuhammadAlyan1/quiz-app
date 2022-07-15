@@ -1,24 +1,51 @@
-import logo from './logo.svg';
-import './App.css';
+// Hooks
+import { useEffect, useReducer, createContext } from "react";
+
+// components
+import reducer from "./reducer";
+
+// utils
+import generateApiUrl from "./generateApiUrl";
+
+// css
+import "./App.css";
+
+export const quizContext = createContext(null);
 
 function App() {
+  // variables
+
+  const default_value = {
+    Amount: 10,
+    listOfQuizzes: [],
+    category: "all",
+    type: "mcqs",
+    difficulty: "all",
+  };
+
+  const [state, dispatch] = useReducer(reducer, default_value);
+
+  // functions
+
+  async function fetchData() {
+    const apiUrl = generateApiUrl(20, "videoGames", "mcqs", "easy");
+    const response = await fetch(apiUrl);
+    const data = await response.json();
+
+    dispatch({ type: "SET_QUIZZES", payload: data.results });
+  }
+
+  useEffect(() => {
+    fetchData();
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // ========================= REFACTOR ==================================
+    <quizContext.Provider value={state}>
+      <div className="App">
+        <h1>Quiz App</h1>
+      </div>
+    </quizContext.Provider>
   );
 }
 
