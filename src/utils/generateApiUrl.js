@@ -1,16 +1,3 @@
-const referenceURL =
-  "https://opentdb.com/api.php?amount=10&category=9&difficulty=hard&type=multiple";
-
-const mcqsRefernceUrl =
-  "https://opentdb.com/api.php?amount=10&category=22&type=multiple";
-const trueFalseReferenceUrl =
-  "https://opentdb.com/api.php?amount=10&type=boolean";
-const referenceUrl = "https://opentdb.com/api.php?amount=10&category=9";
-const anyQuizCategory = "https://opentdb.com/api.php?amount=10";
-
-const difficultyReferenceUrl =
-  "https://opentdb.com/api.php?amount=10&difficulty=easy";
-
 export default function generateApiUrl(
   quizAmount = 10,
   category = "all",
@@ -57,12 +44,6 @@ export default function generateApiUrl(
   // adding type to url
   const selectedQuizType = quizTypes[type];
   url += `&type=${selectedQuizType}`;
-
-  // ======================================================================================
-  // ======================================================================================
-  //remove console.log
-  // ======================================================================================
-  console.log("URL: ", url);
 
   return url;
 }
