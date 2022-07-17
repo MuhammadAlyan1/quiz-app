@@ -1,8 +1,8 @@
 export default function generateApiUrl(
   quizAmount = 10,
-  category = "all",
-  type = "mcqs",
-  difficulty = "all"
+  category = 'all',
+  type = 'mcqs',
+  difficulty = 'all'
 ) {
   const quizCategories = {
     generalKnowledge: 9,
@@ -16,27 +16,27 @@ export default function generateApiUrl(
   };
 
   const quizTypes = {
-    mcqs: "multiple",
-    trueFalse: "boolean",
+    mcqs: 'multiple',
+    trueFalse: 'boolean',
   };
 
   const quizDifficulty = {
-    easy: "easy",
-    medium: "medium",
-    hard: "hard",
+    easy: 'easy',
+    medium: 'medium',
+    hard: 'hard',
   };
 
   // default url with quiz amount
   let url = `https://opentdb.com/api.php?amount=${quizAmount}`;
 
   // adding category to url
-  if (category !== "all") {
+  if (category !== 'all') {
     const selectedQuizCategory = quizCategories[category];
     url += `&category=${selectedQuizCategory}`;
   }
 
   // adding difficulty to url
-  if (difficulty !== "all") {
+  if (difficulty !== 'all') {
     const selectedDifficulty = quizDifficulty[difficulty];
     url += `&difficulty=${selectedDifficulty}`;
   }
