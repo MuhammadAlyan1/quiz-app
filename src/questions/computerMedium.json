@@ -487,6 +487,6 @@
     "difficulty": "medium",
     "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
     "correctAnswer": "Shamir",
-    "options": ["Secure", "Schottky", "Stable", "medium"]
+    "options": ["Secure", "Schottky", "Stable", "Shamir"]
   }
 ]

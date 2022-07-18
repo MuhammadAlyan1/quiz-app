@@ -1,502 +1,492 @@
 [
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "When was the first Call of Duty title released?",
-    "correctAnswer": "October 29, 2003",
+    "question": "Whistler was the codename of this Microsoft Operating System.",
+    "correctAnswer": "Windows XP",
+    "options": ["Windows XP", "Windows 2000", "Windows 7", "Windows 95"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+    "correctAnswer": "Year",
+    "options": ["Four Years", "Year", "Two Years", "Eight Years"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What does AD stand for in relation to Windows Operating Systems? ",
+    "correctAnswer": "Active Directory",
     "options": [
-      "December 1, 2003",
-      "November 14, 2002",
-      "October 29, 2003",
-      "July 18, 2004"
+      "Alternative Drive",
+      "Active Directory",
+      "Automated Database",
+      "Active Department"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "What was the code name given to Sonic the Hedgehog 4 during its development?",
-    "correctAnswer": "Project Needlemouse",
+    "question": "When was the programming language &quot;C#&quot; released?",
+    "correctAnswer": "2000",
+    "options": ["1998", "1999", "2000", "2001"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "On which computer hardware device is the BIOS chip located?",
+    "correctAnswer": "Motherboard",
     "options": [
-      "Project Bluespike",
-      "Project Roboegg",
-      "Project Needlemouse",
-      "Project Darksphere"
+      "Hard Disk Drive",
+      "Central Processing Unit",
+      "Graphics Processing Unit",
+      "Motherboard"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "What is the name of your team in Star Wars: Republic Commando?",
-    "correctAnswer": "Delta Squad",
+    "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+    "correctAnswer": "Inkscape",
+    "options": ["Inkscape", "Paint.NET", "GIMP", "Adobe Photoshop"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+    "correctAnswer": "Taiwan",
     "options": [
-      "Delta Squad",
-      "The Commandos",
-      "Bravo Six",
-      "Vader&#039;s Fist"
+      "United States",
+      "Germany",
+      "Taiwan",
+      "China (People&#039;s Republic of)"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In the game &quot;The Sims&quot;, how many Simoleons does each family start with?",
-    "correctAnswer": "20,000",
-    "options": ["10,000", "15,000", "25,000", "20,000"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "The map featured in Arma 3 named &quot;Altis&quot; is based off of what Greek island?",
-    "correctAnswer": "Lemnos",
-    "options": ["Ithaca", "Naxos", "Lemnos", "Anafi"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "How many copies of the notorious E.T. game for the Atari 2600 did Atari end up selling?",
-    "correctAnswer": "1.5 Million",
+    "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+    "correctAnswer": "The Onion Router",
     "options": [
-      "1 Million",
-      "1.5 Million",
-      "250 Thousand",
-      "Less than 250 Thousand"
+      "The Onion Router",
+      "The Only Router",
+      "The Orange Router",
+      "The Ominous Router"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In the Gamecube Version of &quot;Resident Evil&quot; what text document is open on the monitor of the computer in the Visual Data Room?",
-    "correctAnswer": "A GDC Document",
+    "question": "What was the first commerically available computer processor?",
+    "correctAnswer": "Intel 4004",
+    "options": ["Intel 486SX", "Intel 4004", "TMS 1000", "AMD AM386"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name given to Android 4.3?",
+    "correctAnswer": "Jelly Bean",
+    "options": ["Lollipop", "Nutella", "Froyo", "Jelly Bean"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+    "correctAnswer": "Clipper Chip",
+    "options": ["Enigma Machine", "Skipjack", "Clipper Chip", "Nautilus"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "On which day did the World Wide Web go online?",
+    "correctAnswer": "December 20, 1990",
     "options": [
-      "Text Document on Herbs",
-      "Nothing",
-      "A GDC Document",
-      "Document on B.O.Ws"
+      "December 17, 1996",
+      "November 12, 1990",
+      "December 20, 1990",
+      "November 24, 1995"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In the Animal Crossing series, which flower is erroneously called the &quot;Jacob&#039;s Ladder&quot;?",
-    "correctAnswer": "Lily of the Valley",
-    "options": ["Lily of the Valley", "Hydrangea", "Harebell", "Yarrow"]
+    "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+    "correctAnswer": "New Mexico",
+    "options": ["Washington", "New Mexico", "Colorado", "Arizona"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "When was the first &quot;Half-Life&quot; released?",
-    "correctAnswer": "1998",
-    "options": ["2004", "1999", "1998", "1997"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "When was Steam first released?",
-    "correctAnswer": "2003",
-    "options": ["2003", "2004", "2011", "2007"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?",
-    "correctAnswer": "Jill",
-    "options": ["Dana", "Alma", "Jill", "Anna"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "How long was the World Record Speed Run of Valve Software&#039;s &quot;Half-Life&quot; that was done in 2014.",
-    "correctAnswer": "20 Minutes, 41 Seconds",
+    "question": "What does the acronym CDN stand for in terms of networking?",
+    "correctAnswer": "Content Delivery Network",
     "options": [
-      "45 Minutes, 32 Seconds",
-      "5 Minutes, 50 Seconds",
-      "12 Minutes, 59 Seconds",
-      "20 Minutes, 41 Seconds"
+      "Content Distribution Network",
+      "Computational Data Network",
+      "Compressed Data Network",
+      "Content Delivery Network"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which of these is NOT a possible drink to be made in the game &quot;VA-11 HALL-A: Cyberpunk Bartender Action&quot;?",
-    "correctAnswer": "Sour Appletini",
-    "options": ["Fringe Weaver", "Sour Appletini", "Piano Man", "Bad Touch"]
+    "question": "Generally, which component of a computer draws the most power?",
+    "correctAnswer": "Video Card",
+    "options": ["Hard Drive", "Processor", "Power Supply", "Video Card"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In the Fallout series, on which date did The Great War happen?",
-    "correctAnswer": "October 23rd, 2077",
+    "question": "How many cores does the Intel i7-6950X have?",
+    "correctAnswer": "10",
+    "options": ["10", "12", "8", "4"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which one of these is not an official development name for a Ubuntu release?",
+    "correctAnswer": "Mystic Mansion",
     "options": [
-      "May 15th, 2058",
-      "December 14th, 2069",
-      "November 5th, 2076",
-      "October 23rd, 2077"
+      "Trusty Tahr",
+      "Mystic Mansion",
+      "Utopic Unicorn",
+      "Wily Werewolf"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "What was the world&#039;s first handheld game device?",
-    "correctAnswer": "Mattel Auto Race",
+    "question": "In the server hosting industry IaaS stands for...",
+    "correctAnswer": "Infrastructure as a Service",
     "options": [
-      "Game Boy",
-      "Microvision",
-      "Mattel Auto Race",
-      "Game &amp; Watch"
+      "Internet as a Service",
+      "Internet and a Server",
+      "Infrastructure as a Server",
+      "Infrastructure as a Service"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "What animal is on Link&#039;s pajamas in The Legend of Zelda: The Wind Waker?",
-    "correctAnswer": "Crawfish",
-    "options": ["Lobster", "Salmon", "Crawfish", "Swordfish"]
+    "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2021?",
+    "correctAnswer": "JavaScript",
+    "options": ["C#", "Python", "JavaScript", "PHP"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which of these weapon classes DO NOT appear in the first Monster Hunter game?",
-    "correctAnswer": "Bow",
-    "options": ["Bow", "Hammer", "Heavy Bowgun", "Light Bowgun"]
+    "question": "What is the name of the default theme that is installed with Windows XP?",
+    "correctAnswer": "Luna",
+    "options": ["Neptune", "Whistler", "Luna", "Bliss"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In the video game &quot;Metal Gear Solid&quot;, what did Revolver Ocelot consider the greatest handgun ever made?",
-    "correctAnswer": "Colt Single Action Army",
+    "question": "In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?",
+    "correctAnswer": "print(&quot;Hello World&quot;)",
     "options": [
-      "Colt Python",
-      "Colt M1892",
-      "Colt Single Action Army",
-      "Colt 1851 Navy Revolver"
+      "console.log(&quot;Hello World&quot;)",
+      "echo &quot;Hello World&quot;",
+      "print(&quot;Hello World&quot;)",
+      "printf(&quot;Hello World&quot;)"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which car did not appear in the 2002 Lego Game: Drome Racers?",
-    "correctAnswer": "Wasp",
-    "options": ["Raptor", "Hornet", "Wasp", "Behemoth"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
-    "correctAnswer": "Festung Recogne",
+    "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+    "correctAnswer": "&lt;marquee&gt;&lt;/marquee&gt;",
     "options": [
-      "Festung Recogne",
-      "Ste. Mere-Eglise (Day)",
-      "Chateau",
-      "Brecourt"
+      "&lt;scroll&gt;&lt;/scroll&gt;",
+      "&lt;move&gt;&lt;/move&gt;",
+      "&lt;slide&gt;&lt;/slide&gt;",
+      "&lt;marquee&gt;&lt;/marquee&gt;"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina&#039;s ultimate ability is what?",
-    "correctAnswer": "Ultimate Swimmer",
+    "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+    "correctAnswer": "center",
+    "options": ["center", "static", "absolute", "relative"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+    "correctAnswer": "Heat Sink",
+    "options": ["Heat Sink", "CPU Vent", "Temperature Decipator", "Heat Vent"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+    "correctAnswer": "?:",
+    "options": ["??", "if then", "?:", "?"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these programming languages is a low-level language?",
+    "correctAnswer": "Assembly",
+    "options": ["Python", "C#", "Pascal", "Assembly"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How fast is USB 3.1 Gen 2 theoretically?",
+    "correctAnswer": "10 Gb/s",
+    "options": ["5 Gb/s", "8 Gb/s", "10 Gb/s", "1 Gb/s"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What does &quot;LCD&quot; stand for?",
+    "correctAnswer": "Liquid Crystal Display",
     "options": [
-      "Ultimate Detective",
-      "Ultimate Gambler",
-      "Ultimate Dancer",
-      "Ultimate Swimmer"
+      "Language Control Design",
+      "Last Common Difference",
+      "Liquid Crystal Display",
+      "Long Continuous Design"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In what year was the game &quot;Eliminator&quot; released?",
-    "correctAnswer": "1998",
-    "options": ["1998", "2000", "1999", "2001"]
+    "question": "Which operating system was released first?",
+    "correctAnswer": "Mac OS",
+    "options": ["Windows", "Linux", "OS/2", "Mac OS"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "The voice actor for which Portal 2 character was not a TV or film actor prior to the game?",
-    "correctAnswer": "GLaDOS",
-    "options": ["Cave Johnson", "Wheatley", "GLaDOS", "Atlas / P-Body"]
+    "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+    "correctAnswer": "FM-7",
+    "options": ["PC-9801", "FM-7", "Xmillennium ", "MSX"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into &quot;Super Smash Bros.&quot;?",
-    "correctAnswer": "Dragon King: The Fighting Game",
+    "question": ".rs is the top-level domain for what country?",
+    "correctAnswer": "Serbia",
+    "options": ["Serbia", "Romania", "Russia", "Rwanda"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": ".at is the top-level domain for what country?",
+    "correctAnswer": "Austria",
+    "options": ["Argentina", "Australia", "Austria", "Angola"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is known as &quot;the brain&quot; of the Computer?",
+    "correctAnswer": "Central Processing Unit",
     "options": [
-      "Dragon King: The Fighting Game",
-      "Nintendo Legends: Fight!",
-      "Martial Arts: King of the Hill",
-      "Aerial Warriors: Supreme Battle"
+      "Motherboard",
+      "Central Processing Unit",
+      "Graphics Processing Unit",
+      "Keyboard"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In the Pok&eacute;mon series, what is Palkia&#039;s hidden ability?",
-    "correctAnswer": "Telepathy",
-    "options": ["Pressure", "Water Bubble", "Telepathy", "Hydration"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?",
-    "correctAnswer": "58",
-    "options": ["48", "51", "55", "58"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "How many trophies are there in &quot;Super Smash Bros. for Nintendo 3DS&quot;?",
-    "correctAnswer": "685",
-    "options": ["1360", "685", "716", "1155"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?",
-    "correctAnswer": "A shell",
-    "options": ["A shell", "A slide of Gelatin", "A poffin", "A spike"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In &quot;Halo&quot;, what is the name of the planet which Installation 04 orbits?",
-    "correctAnswer": "Threshold",
-    "options": ["Substance", "Sanghelios", "Te", "Threshold"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "How many voice channels does the Super Nintendo Entertainment System support?",
-    "correctAnswer": "8",
-    "options": ["6", "8", "10", "12"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "&quot;Gimmick!&quot; is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
-    "correctAnswer": "FME-7",
-    "options": ["VRC7", "FME-7", "VRC6", "MMC5"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which variant of the MP5 is depicted in Counter-Strike 1.6?",
-    "correctAnswer": "MP5N",
-    "options": ["MP5N", "MP5SD", "MP5K", "MP5RAS"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In the &quot;Little Lost Girl&quot; Easter Egg in Call of Duty: Black Ops II, what&#039;s the last step required for the achievement?",
-    "correctAnswer": "Raise Hell",
+    "question": "What does the term GPU stand for?",
+    "correctAnswer": "Graphics Processing Unit",
     "options": [
-      "Freedom",
-      "Raise Hell",
-      "Skewer the Winged Beast",
-      "Ascend from Darkness"
+      "Graphics Processing Unit",
+      "Gaming Processor Unit",
+      "Graphite Producing Unit",
+      "Graphical Proprietary Unit"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which game in the &quot;Monster Hunter&quot; series introduced the monster &quot;Gobul&quot;?",
-    "correctAnswer": "Monster Hunter Tri",
+    "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+    "correctAnswer": "Motorola 68000",
+    "options": ["Zilog Z80", "Yamaha YM2612", "Motorola 68000", "Intel 8088"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the first Android version specifically optimized for tablets?",
+    "correctAnswer": "Honeycomb",
+    "options": ["Eclair", "Honeycomb", "Froyo", "Marshmellow"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these people was NOT a founder of Apple Inc?",
+    "correctAnswer": "Jonathan Ive",
+    "options": ["Jonathan Ive", "Steve Jobs", "Ronald Wayne", "Steve Wozniak"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+    "correctAnswer": "2016",
+    "options": ["2013", "2009", "2011", "2016"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+    "correctAnswer": "Non-impact printer",
     "options": [
-      "Monster Hunter Freedom Unite",
-      "Monster Hunter Frontier",
-      "Monster Hunter Generations",
-      "Monster Hunter Tri"
+      "Impact printer",
+      "Daisywheel printer",
+      "Non-impact printer",
+      "Dot matrix printer"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In the &quot;Devil May Cry&quot; franchise, which game is chronologically first?",
-    "correctAnswer": "Devil May Cry 3: Dante&#039;s Awakening ",
-    "options": ["Devil May Cry 4", "Devil May Cry", "Devil May Cry 2"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In &quot;Starbound&quot;, according to the asset files, the description of the &quot;Erchius Ghost&quot; is the same as which other assets?",
-    "correctAnswer": "Spookit",
-    "options": ["Petricub", "Trictus", "Spookit", "Pyromantle"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "According to the lore of &quot;Starbound&quot;, what does the &quot;Colony Deed&quot; do when it is placed down?",
-    "correctAnswer": "Sends out an advertisement for someone to move in.",
+    "question": "What does the term MIME stand for, in regards to computing?",
+    "correctAnswer": "Multipurpose Internet Mail Extensions",
     "options": [
-      "Teleports somebody from somewhere on the planet it is placed.",
-      "Sends out an advertisement for someone to move in.",
-      "Teleports a random person to the location.",
-      "Materializes a new being at it&#039;s location."
+      "Multipurpose Internet Mail Extensions",
+      "Mail Internet Mail Exchange",
+      "Multipurpose Interleave Mail Exchange",
+      "Mail Interleave Method Exchange"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In the &quot;PAYDAY&quot; series, what is the real name of the character known as &quot;Dallas&quot;?",
-    "correctAnswer": "Nathan Steele",
+    "question": "Which programming language was developed by Sun Microsystems in 1995?",
+    "correctAnswer": "Java",
+    "options": ["Python", "Solaris OS", "Java", "C++"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The name of technology company HP stands for what?",
+    "correctAnswer": "Hewlett-Packard",
     "options": [
-      "Nate Siemens",
-      "Nick Stamos",
-      "Nathan Steele",
-      "Nolan Stuhlinger"
+      "Howard Packmann",
+      "Husker-Pollosk",
+      "Hewlett-Packard",
+      "Hellman-Pohl"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "What was the first &quot;Call Of Duty: Zombies&quot; map to be directed by Jason Blundell?",
-    "correctAnswer": "Mob Of The Dead",
-    "options": ["Mob Of The Dead", "Buried", "Origins", "Moon"]
+    "question": "Approximately how many Apple I personal computers were created?",
+    "correctAnswer": "200",
+    "options": ["100", "200", "500", "1000"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In &quot;Call Of Duty: Zombies&quot;, &quot;Richtofen&quot; is in possession of two filled blood vials belonging to who?",
-    "correctAnswer": "Sal DeLuca and Finn O&#039;Leary",
+    "question": "In programming, what do you call functions with the same name but different implementations?",
+    "correctAnswer": "Overloading",
+    "options": ["Overriding", "Overloading", "Abstracting", "Inheriting"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What does RAID stand for?",
+    "correctAnswer": "Redundant Array of Independent Disks",
     "options": [
-      "Richtofen",
-      "Al Arlington and Sal DeLuca",
-      "Jessica Rose and Jack Vincent",
-      "Sal DeLuca and Finn O&#039;Leary"
+      "Rapid Access for Indexed Devices",
+      "Range of Applications with Identical Designs",
+      "Redundant Array of Independent Disks",
+      "Randomized Abstract Identification Description"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which artist composed the original soundtrack for &quot;Watch Dogs 2&quot;?",
-    "correctAnswer": "Hudson Mohawke",
-    "options": ["Rustie", "Hudson Mohawke", "Machinedrum", "Flying Lotus"]
+    "question": "The teapot often seen in many 3D modeling applications is called what?",
+    "correctAnswer": "Utah Teapot",
+    "options": ["Utah Teapot", "Pixar Teapot", "3D Teapot", "Tennessee Teapot"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In &quot;Team Fortress 2&quot;, what is the fastest taunt kill that can be pulled off?",
-    "correctAnswer": "Showdown",
-    "options": ["Showdown", "Hadouken", "Organ Grinder", "Skewer"]
+    "question": "What is the number of keys on a standard Windows Keyboard?",
+    "correctAnswer": "104",
+    "options": ["64", "94", "76", "104"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "What is the 4th boss in the 1997 video game &quot;Crash Bandicoot 2: Cortex Strikes Back&quot;?",
-    "correctAnswer": "Dr. N. Gin",
-    "options": ["Dr. Neo Cortex", "Komodo Brothers", "Tiny Tiger", "Dr. N. Gin"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What military rank is the protagonist &quot;Nomad&quot; in &quot;Crysis&quot;?",
-    "correctAnswer": "First Lieutenant",
+    "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+    "correctAnswer": "Midnight, January 1, 1970",
     "options": [
-      "Captain",
-      "First Lieutenant",
-      "First Sargent ",
-      "Staff Sargent"
+      "Midnight, July 4, 1976",
+      "Midnight on the creator of Unix&#039;s birthday",
+      "Midnight, January 1, 1970",
+      "Midnight, July 4, 1980"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "What was the name of Sonic the Hedgehog&#039;s original human girlfriend?",
-    "correctAnswer": "Madonna",
-    "options": ["Celeste", "Sierra", "Madonna", "Nina"]
+    "question": "How many bits make up the significand portion of a single precision floating point number?",
+    "correctAnswer": "23",
+    "options": ["23", "8", "53", "15"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which gaming series includes &quot;The Diabolical Box&quot; and &quot;The Curious Village&quot;?",
-    "correctAnswer": "Professor Layton",
-    "options": [
-      "Persona",
-      "Etrian Odyssey",
-      "Professor Layton",
-      "Sam &amp; Max"
-    ]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "&quot;Strangereal&quot; is a fictitious Earth-like world for which game series?",
-    "correctAnswer": "Ace Combat",
-    "options": ["Ace Combat", "Jet Set Radio", "Deus Ex", "Crimson Skies"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What Touhou Project character&#039;s first ever appearance was as a midboss in the eighth game, Imperishable Night?",
-    "correctAnswer": "Tewi Inaba",
-    "options": ["Mystia Lorelei", "Tewi Inaba", "Kaguya Houraisan", "Rumia"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In the Team Fortress 2 canon, what did Shakespearicles NOT invent?",
-    "correctAnswer": "Stairs",
-    "options": ["Two-Story Building", "Rocket Launcher", "Stage Play", "Stairs"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "GoldenEye 007 on the Nintendo 64 was planned to allow you to play as all previous Bond actors, with the exception of who?",
-    "correctAnswer": "George Lazenby",
-    "options": [
-      "Roger Moore",
-      "Sean Connery",
-      "George Lazenby",
-      "Timothy Dalton"
-    ]
+    "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+    "correctAnswer": "Shamir",
+    "options": ["Secure", "Schottky", "Stable", "Shamir"]
   }
 ]
