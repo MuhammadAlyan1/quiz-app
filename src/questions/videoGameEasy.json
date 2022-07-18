@@ -1,0 +1,462 @@
+[
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which game did &quot;Sonic The Hedgehog&quot; make his first appearance in?",
+    "correctAnswer": "Rad Mobile",
+    "options": [
+      "Rad Mobile",
+      "Sonic The Hedgehog",
+      "Super Mario 64",
+      "Mega Man"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which series of games do you collect souls to empower you and buy weaponry and armor with?",
+    "correctAnswer": "Souls",
+    "options": [
+      "Final Fantasy ",
+      "Monster Hunter",
+      "Souls",
+      "The Legend of Zelda"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?",
+    "correctAnswer": "Sasha",
+    "options": ["Betty", "Sasha", "Anna", "Diana"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these levels does NOT appear in the console/PC versions of the game &quot;Sonic Generations&quot;?",
+    "correctAnswer": "Mushroom Hill",
+    "options": ["City Escape", "Planet Wisp", "Sky Sanctuary", "Mushroom Hill"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;Undertale&quot;, how many main endings are there?",
+    "correctAnswer": "3",
+    "options": ["2", "5", "3", "13"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these is NOT a main playable character in &quot;Grand Theft Auto V&quot;?",
+    "correctAnswer": "Lamar",
+    "options": ["Trevor", "Michael", "Lamar", "Franklin"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Nationality is D.Va from Overwatch?",
+    "correctAnswer": "Korean",
+    "options": ["Japanese", "Chinese", "Vietnamese", "Korean"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What ingredient is NOT used to craft a cake in Minecraft?",
+    "correctAnswer": "Bread",
+    "options": ["Wheat", "Bread", "Milk", "Egg"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many Chaos Emeralds are there in the &quot;Sonic the Hedgehog&quot; universe?",
+    "correctAnswer": "7",
+    "options": ["6", "8", "7", "14"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the protagonist&#039;s title given by the demons in DOOM (2016)?",
+    "correctAnswer": "Doom Slayer",
+    "options": ["Doom Slayer", "Doom Guy", "Doom Marine", "Doom Reaper"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the first game of the Sly Cooper franchise, what family heirloom did Sly Cooper want to steal back?",
+    "correctAnswer": "Thievius Raccoonus",
+    "options": [
+      "Raccoon Training 101",
+      "The Art of Sneak",
+      "Raccoonus Teachus",
+      "Thievius Raccoonus"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What&#039;s the Team Fortress 2 Scout&#039;s city of origin?",
+    "correctAnswer": "Boston",
+    "options": ["Sydney", "Boston", "Detroit", "New York"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the creator of the Super Smash Bros. Series?",
+    "correctAnswer": "Masahiro Sakurai",
+    "options": [
+      "Reggie Fils-Aim&eacute;",
+      "Bill Trinen",
+      "Hideo Kojima",
+      "Masahiro Sakurai"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was Minecraft first released to the public?",
+    "correctAnswer": "May 17th, 2009",
+    "options": [
+      "May 17th, 2009",
+      "September 17th, 2009",
+      "November 18th, 2011",
+      "October 7th, 2011"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what city in the dystopia alternate future of Half-Life 2 do you first start in?",
+    "correctAnswer": "City 17",
+    "options": ["City 18", "City 17", "City 6", "City 45"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these characters is the mascot of the video game company SEGA?",
+    "correctAnswer": "Sonic the Hedgehog",
+    "options": ["Dynamite Headdy", "Alex Kidd", "Opa-Opa", "Sonic the Hedgehog"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Touhou Project series of games is often associated with which genre?",
+    "correctAnswer": "Shoot &#039;em up",
+    "options": ["Strategy", "Shoot &#039;em up", "FPS", "Casual"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the first weapon you acquire in Half-Life?",
+    "correctAnswer": "A crowbar",
+    "options": ["A crowbar", "A pistol", "The H.E.V suit", "Your fists"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the leader of Team Instinct in Pok&eacute;mon Go?",
+    "correctAnswer": "Spark",
+    "options": ["Candela", "Blanche", "Spark", "Willow"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In PROTOTYPE 2. who is referred to as &quot;Tango Primary&quot;?",
+    "correctAnswer": "James Heller",
+    "options": [
+      "Alex Mercer",
+      "Dana Mercer",
+      "Any Goliaths roaming around",
+      "James Heller"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many differently shaped Tetris pieces are there?",
+    "correctAnswer": "7",
+    "options": ["5", "6", "7", "8"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the game Nuclear Throne, what character is only usable in a play through with Melting?",
+    "correctAnswer": "Skeleton",
+    "options": ["Skeleton", "Frog", "Horror", "Plant"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In Need for Speed: Most Wanted (2005), what was the name of the main antagonist?",
+    "correctAnswer": "Clarence &quot;Razor&quot; Callahan",
+    "options": [
+      "Hector &quot;Ming&quot; Domingo",
+      "Toru &quot;Bull&quot; Sato",
+      "Clarence &quot;Razor&quot; Callahan",
+      "Karl &quot;Baron&quot; Smit"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many flagship monsters appear in Monster Hunter Gernerations?",
+    "correctAnswer": "4",
+    "options": ["1", "2", "3", "4"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what year was the first &quot;Mass Effect&quot; game released?",
+    "correctAnswer": "2007",
+    "options": ["2007", "2008", "2009", "2010"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following was NOT a playable character in the game Kingdom Hearts: Birth by Sleep?",
+    "correctAnswer": "Ignis",
+    "options": ["Ignis", "Ventus", "Terra", "Aqua"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Elite Four member from the first generation of Pok&eacute;mon became the champion in the next generation?",
+    "correctAnswer": "Lance",
+    "options": ["Agatha", "Lance", "Bruno", "Lorelei"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what year was the game &quot;FTL: Faster Than Light&quot; released?",
+    "correctAnswer": "2012",
+    "options": ["2014", "2012", "2013", "2011"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In Animal Crossing, who is the manager of the town shop?",
+    "correctAnswer": "Tom Nook",
+    "options": ["Mr. Resetti", "Gracie", "K.K. Slider", "Tom Nook"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "&quot;The Potato Sack&quot; was a collection of indie games released on Steam in 2011 as a promotion for which game?",
+    "correctAnswer": "Portal 2",
+    "options": ["Portal 2", "Left 4 Dead 2", "Half-Life 3", "Dota 2"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which franchise was NOT featured in the 2015 video game &quot;Lego Dimensions&quot;?",
+    "correctAnswer": "Breaking Bad",
+    "options": ["Portal", "Doctor Who", "Back to the Future", "Breaking Bad"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "&quot;Minecraft&quot; was released from beta in 2011 during a convention held in which city?",
+    "correctAnswer": "Las Vegas",
+    "options": ["Paris", "Bellevue", "Las Vegas", "London"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What game was used to advertise Steam?",
+    "correctAnswer": "Counter-Strike 1.6",
+    "options": [
+      "Half-Life",
+      "Counter-Strike 1.6",
+      "Half-Life 2",
+      "Team Fortress"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who created the indie adventure game &quot;Night in the Woods&quot;?",
+    "correctAnswer": "Alec Holowka",
+    "options": ["Alec Holowka", "Ron Gilbert", "Tim Schafer", " Tommy Refenes"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What were the first two blocks in &quot;Minecraft&quot;?",
+    "correctAnswer": "Grass and Cobblestone",
+    "options": [
+      "Grass and Stone",
+      "Crafting Table and Cobblestone",
+      "Grass and Cobblestone",
+      "Cobblestone and Stone"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the Halo series, which era of SPARTAN is Master Chief? ",
+    "correctAnswer": "SPARTAN-II",
+    "options": ["SPARTAN-I", "SPARTAN-III", "SPARTAN-IV", "SPARTAN-II"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT a Nintendo game console?",
+    "correctAnswer": "Dreamcast",
+    "options": ["SNES", "Wii", "Dreamcast", "Switch"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the hardest possible difficulty in &quot;Deus Ex: Mankind Divided&quot;?",
+    "correctAnswer": "I Never Asked For This",
+    "options": ["I Never Asked For This", "Nightmare", "Extreme", "Guru"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the original Spyro game who is the first villain?",
+    "correctAnswer": "Gnasty Gnorc",
+    "options": ["Ripto", "Sorceress", "Cynder", "Gnasty Gnorc"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Before it&#039;s redesign of the company logo in the year 2000, which 3D shape is NOT represented in the Electronic Arts logo?",
+    "correctAnswer": "Cylinder",
+    "options": ["Pyramid", "Cylinder", "Cube", "Sphere"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT one of the main characters in Grand Theft Auto V&rsquo;s story mode?",
+    "correctAnswer": "Tommy Vercetti",
+    "options": [
+      "Michael de Santa",
+      "Franklin Clinton",
+      "Tommy Vercetti",
+      "Trevor Phillips"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;PUBATTLEGROUNDS&quot; which ammo type does the M24 use?",
+    "correctAnswer": "7.62mm",
+    "options": ["5.56mm", "7.62mm", "9mm", ".300 Magnum"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;Yo! Noid 2,&quot; The Noid can perform what special move?",
+    "correctAnswer": "Dab",
+    "options": ["Dab", "Pizza Throw", "Dodge Roll", "Spin Dash"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the talking cat in Persona 5?",
+    "correctAnswer": "Morgana",
+    "options": ["Teddie", "Marie", "Ryuji", "Morgana"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the game Sonic Forces, which of the following was not from a previous game?",
+    "correctAnswer": "Infinite",
+    "options": ["Metal Sonic", "Zavoc", "Infinite", "Chaos"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Ultimate does Makoto Naegi, protagonist of Danganronpa: Trigger Happy Havoc, have? ",
+    "correctAnswer": "Ultimate Lucky Student",
+    "options": [
+      "Ultimate Unlucky Student",
+      "Ultimate Detective",
+      "Ultimate Runner",
+      "Ultimate Lucky Student"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the survival horror game, &quot;Cry of Fear,&quot; what was the name of Simon&#039;s close friend/potential love interest?",
+    "correctAnswer": "Sophie",
+    "options": ["Olivia", "Jessica", "Sophie", "Alice"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the leader of the Brotherhood of Nod in the Command and Conquer series?",
+    "correctAnswer": "Kane",
+    "options": ["Joseph Stalin", "Kane", "CABAL", "Yuri"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these covert groups employs Sam Fisher to work as a Splinter Cell?",
+    "correctAnswer": "Third Echelon",
+    "options": ["Voron", "Black Arrow", "The Engineers", "Third Echelon"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In Final Fantasy XIV, what is the name of the Deep Dungeon that was introduced in the expansion pack, Heavensward?",
+    "correctAnswer": "Palace of the Dead",
+    "options": [
+      "Palace of the Dead",
+      "Heaven on High",
+      "Aetherochemical Research Facility",
+      "Sunken Temple of Qarn"
+    ]
+  }
+]

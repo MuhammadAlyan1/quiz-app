@@ -1,0 +1,497 @@
+[
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these TrackMania environments was NOT in the original game?",
+    "correctAnswer": "Bay",
+    "options": ["Bay", "Desert", "Snow", "Rally"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Internet Meme &quot;All your base are belong to us&quot; is based on the poorly translated English Version of which Video Game?",
+    "correctAnswer": "Zero Wing",
+    "options": ["F-Zero", "Zero Wing", "Wing Commander", "Star Wars: X-Wing"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which one of the following titles by Valve is not based on a Community Mod?",
+    "correctAnswer": "Ricochet",
+    "options": ["Ricochet", "Day of Defeat", "Counter-Strike", "Alien Swarm"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Animal Crossing series, which flower is erroneously called the &quot;Jacob&#039;s Ladder&quot;?",
+    "correctAnswer": "Lily of the Valley",
+    "options": ["Hydrangea", "Harebell", "Lily of the Valley", "Yarrow"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the main theme song of &quot;Sonic Adventure 2&quot;?",
+    "correctAnswer": "Live and Learn",
+    "options": [
+      "Live and Learn",
+      "Open Your Heart",
+      "Can You Feel the Sunshine?",
+      "His World"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?",
+    "correctAnswer": "8 hours",
+    "options": ["4 hours", "8 hours", "12 hours", "5 hours"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What device allows Tracer to manipulate her own time in the game &quot;Overwatch&quot;?",
+    "correctAnswer": "Chronal Accelerator",
+    "options": [
+      "B.L.I.N.K",
+      "Spacial Displacement Manipulator",
+      "TMD (Time Manipulation Device)",
+      "Chronal Accelerator"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In World of Warcraft lore, who organized the creation of the Paladins?",
+    "correctAnswer": "Alonsus Faol",
+    "options": [
+      "Uther the Lightbringer",
+      "Alexandros Mograine",
+      "Alonsus Faol",
+      "Sargeras, The Daemon Lord"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which was the first M-rated video game developed by Squaresoft/Square Enix?",
+    "correctAnswer": "Parasite Eve",
+    "options": [
+      "Final Fantasy VIII",
+      "Parasite Eve",
+      "Front Mission",
+      "Vagrant Story"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Fallout series, on which date did The Great War happen?",
+    "correctAnswer": "October 23rd, 2077",
+    "options": [
+      "May 15th, 2058",
+      "December 14th, 2069",
+      "November 5th, 2076",
+      "October 23rd, 2077"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the world&#039;s first handheld game device?",
+    "correctAnswer": "Mattel Auto Race",
+    "options": [
+      "Mattel Auto Race",
+      "Game Boy",
+      "Microvision",
+      "Game &amp; Watch"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these weapon classes DO NOT appear in the first Monster Hunter game?",
+    "correctAnswer": "Bow",
+    "options": ["Bow", "Hammer", "Heavy Bowgun", "Light Bowgun"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Monster Hunter Generations, which of these hunter arts are exclusive to the Longsword?",
+    "correctAnswer": "Unhinged Spirit",
+    "options": ["Shoryugeki", "Provoke", "Unhinged Spirit", "Demon Riot"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Halo 2, how many rounds does the M6C hold in a single magazine?",
+    "correctAnswer": "12",
+    "options": ["6", "12", "36", "18"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina&#039;s ultimate ability is what?",
+    "correctAnswer": "Ultimate Swimmer",
+    "options": [
+      "Ultimate Swimmer",
+      "Ultimate Detective",
+      "Ultimate Gambler",
+      "Ultimate Dancer"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these Pok&eacute;mon cannot learn Surf?",
+    "correctAnswer": "Arbok",
+    "options": ["Linoone", "Arbok", "Tauros", "Nidoking"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which day in &quot;Papers, Please&quot; does the man in red appear?",
+    "correctAnswer": "Day 23",
+    "options": ["Day 20", "Day 17", "Day 23", "Day 15"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The creeper in Minecraft was the result of a bug while implementing which creature?",
+    "correctAnswer": "Pig",
+    "options": ["Zombie", "Chicken", "Pig", "Cow"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Halo&quot;, what is the name of the planet which Installation 04 orbits?",
+    "correctAnswer": "Threshold",
+    "options": ["Substance", "Sanghelios", "Threshold", "Te"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which team won the &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; Invitational Event February 2017 in the PC Category?",
+    "correctAnswer": "Continuum",
+    "options": ["Continuum", "GIFU", "Santos Dexterity", "eRa Eternity"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character from the Mega Man series made a small cameo on Volt Catfish&#039;s introduction scene in CD versions of Mega Man X3?",
+    "correctAnswer": "Auto",
+    "options": ["Eddie", "Tango", "Rush", "Auto"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these games was NOT developed by Markus Persson?",
+    "correctAnswer": "Dwarf Fortress",
+    "options": ["Minecraft", "Dwarf Fortress", "Wurm Online", "0x10c"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following games in the The Legend of Zelda franchise was released in North America before Japan?",
+    "correctAnswer": "The Legend of Zelda: Twilight Princess",
+    "options": [
+      "Zelda II: The Adventure of Link",
+      "The Legend of Zelda: Four Swords Adventures",
+      "The Legend of Zelda: Twilight Princess",
+      "The Legend of Zelda: Majora&#039;s Mask"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?",
+    "correctAnswer": "The Legend of Zelda: The Minish Cap",
+    "options": [
+      "The Legend of Zelda: The Minish Cap",
+      "The Legend of Zelda: Twilight Princess",
+      "The Legend of Zelda: Spirit Tracks",
+      "The Legend of Zelda: Four Swords"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Zombies mode of &quot;Call of Duty: Black Ops&quot;, what is the &quot;Pack-A-Punched&quot; version of the &quot;Galil&quot; called?",
+    "correctAnswer": "Lamentation",
+    "options": [
+      "Galvanized Atomic Lead Insertion Liquidator",
+      "Gabig",
+      "Lamentation",
+      "Predictive Death Wish"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?",
+    "correctAnswer": "By clearing every 7th episode",
+    "options": [
+      "By obtaining 70 Shines",
+      "By clearing every episode involving a &quot;Secret&quot;",
+      "By unlocking every nozzle F.L.U.D.D can use",
+      "By clearing every 7th episode"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Final Fantasy VI&quot;, what is the name of (summoned) Gilgamesh&#039;s weakest attack?",
+    "correctAnswer": "Excalipoor",
+    "options": ["Excalibore", "Excalisnore", "Excalipoor", "Excalisore"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the &quot;Little Lost Girl&quot; Easter Egg in Call of Duty: Black Ops II, what&#039;s the last step required for the achievement?",
+    "correctAnswer": "Raise Hell",
+    "options": [
+      "Freedom",
+      "Raise Hell",
+      "Skewer the Winged Beast",
+      "Ascend from Darkness"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;The Binding of Isaac&quot;, which item instantly kills Mom and Mom&#039;s Heart?",
+    "correctAnswer": "The Bible",
+    "options": ["The Bible", "The Halo", "Brimstone", "Book of Shadows"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which game in the &quot;Monster Hunter&quot; series introduced the monster &quot;Gobul&quot;?",
+    "correctAnswer": "Monster Hunter Tri",
+    "options": [
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Frontier",
+      "Monster Hunter Tri",
+      "Monster Hunter Generations"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "According to the lore of &quot;Starbound&quot;, what does the &quot;Colony Deed&quot; do when it is placed down?",
+    "correctAnswer": "Sends out an advertisement for someone to move in.",
+    "options": [
+      "Sends out an advertisement for someone to move in.",
+      "Teleports somebody from somewhere on the planet it is placed.",
+      "Teleports a random person to the location.",
+      "Materializes a new being at it&#039;s location."
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What programming language was used to create the game &quot;Minecraft&quot;?",
+    "correctAnswer": "Java",
+    "options": ["HTML 5", "C++", "Java", "Python"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the first &quot;Call Of Duty: Zombies&quot; map to be directed by Jason Blundell?",
+    "correctAnswer": "Mob Of The Dead",
+    "options": ["Buried", "Mob Of The Dead", "Origins", "Moon"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, where is &quot;Stamin-Up&quot; located?",
+    "correctAnswer": "Generator 5",
+    "options": ["Generator 3", "Generator 4", "Generator 5", "Excavation Site"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Magicka&quot;, which two elements are combined to cast the spell, &quot;Nullify&quot;?",
+    "correctAnswer": "Arcane + Shield",
+    "options": [
+      "Lightning + Shield",
+      "Arcane + Shield",
+      "Lightning + Life",
+      "Arcane + Life"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the main island in PLAYERUNKNOWN&#039;S BATTLEGROUNDS?",
+    "correctAnswer": "Erangel",
+    "options": ["Erangel", "Marmara", "Severny", "Lastovo"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Diablo lore, this lesser evil spawned from one of the seven heads of Tathamet, and was known as the Maiden of Anguish.",
+    "correctAnswer": "Andariel",
+    "options": ["Valla", "Malthael", "Kashya", "Andariel"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which gaming series includes &quot;The Diabolical Box&quot; and &quot;The Curious Village&quot;?",
+    "correctAnswer": "Professor Layton",
+    "options": [
+      "Persona",
+      "Professor Layton",
+      "Etrian Odyssey",
+      "Sam &amp; Max"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "&quot;Exile&quot; and &quot;Revelations&quot; were the third and fourth installments of which PC game series?",
+    "correctAnswer": "Myst",
+    "options": ["Myst", "Shivers", "Doom", "Tropico"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following games was NOT included in Valve&#039;s Orange Box?",
+    "correctAnswer": "Counter-Strike",
+    "options": [
+      "Portal",
+      "Half-Life 2: Episode Two",
+      "Team Fortress 2",
+      "Counter-Strike"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Disney&#039;s &quot;Toontown Online&quot;, which of these species wasn&#039;t available as a Toon?",
+    "correctAnswer": "Cow",
+    "options": ["Monkey", "Bear", "Cow", "Pig"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the indie farming game &quot;Stardew Valley&quot;, which NPC hates the &quot;prismatic shard&quot; item when received as a gift?",
+    "correctAnswer": "Haley",
+    "options": ["Haley", "Abigail ", "Elliott", "Lewis"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4?",
+    "correctAnswer": "Deid Mann",
+    "options": [
+      "Frank Sahwit",
+      "Deid Mann",
+      "Shey De Killer",
+      "Raymond Shields"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "&quot;Strangereal&quot; is a fictitious Earth-like world for which game series?",
+    "correctAnswer": "Ace Combat",
+    "options": ["Jet Set Radio", "Deus Ex", "Crimson Skies", "Ace Combat"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the game Warframe, what Mastery Rank do you need to have to build the Tigris Prime?",
+    "correctAnswer": "13",
+    "options": ["6", "13", "18", "10"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which drive form was added into Kingdom Hearts II Final Mix?",
+    "correctAnswer": "Limit Form",
+    "options": ["Valor Form", "Wisdom Form", "Anti Form", "Limit Form"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which retro video game was released first?",
+    "correctAnswer": "Space Invaders",
+    "options": ["Space Invaders", "Galaga", "Pac-Man", "Asteroids"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When was Pokemon GO released in North America?",
+    "correctAnswer": "July 6th, 2016",
+    "options": [
+      "June 5th, 2016",
+      "July 6th, 2016",
+      "May 24th, 2016",
+      "January 2nd, 2017"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the game Enter the Gungeon, which one of these is not a playable character?",
+    "correctAnswer": "The Wizard",
+    "options": ["The Bullet", "The Robot", "The Cultist", "The Wizard"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Terraria, which debuff does the ankh charm not provide immunity to?",
+    "correctAnswer": "Venom",
+    "options": ["Cursed", "Bleeding", "Slow", "Venom"]
+  }
+]

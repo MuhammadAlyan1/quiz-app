@@ -1,0 +1,497 @@
+[
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+    "correctAnswer": "Silver",
+    "options": ["Gold", "Silver", "Juno", "Sword"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "King Henry VIII was the second monarch of which European royal house?",
+    "correctAnswer": "Tudor",
+    "options": ["York", "Stuart", "Lancaster", "Tudor"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was William Frederick Cody better known as?",
+    "correctAnswer": "Buffalo Bill",
+    "options": [
+      "Billy the Kid",
+      "Wild Bill Hickok",
+      "Pawnee Bill",
+      "Buffalo Bill"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which German field marshal was known as the `Desert Fox`?",
+    "correctAnswer": "Erwin Rommel",
+    "options": [
+      "Ernst Busch",
+      "Erwin Rommel",
+      "Wolfram Freiherr von Richthofen",
+      "Wilhelm List"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who discovered Penicillin?",
+    "correctAnswer": "Alexander Flemming",
+    "options": [
+      "Marie Curie",
+      "Alfred Nobel",
+      "Alexander Flemming",
+      "Louis Pasteur"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many manned moon landings have there been?",
+    "correctAnswer": "6",
+    "options": ["1", "3", "6", "7"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The idea of Socialism was articulated and advanced by whom?",
+    "correctAnswer": "Karl Marx",
+    "options": [
+      "Vladimir Lenin",
+      "Karl Marx",
+      "Joseph Stalin",
+      "Vladimir Putin"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what year did the Wall Street Crash take place?",
+    "correctAnswer": "1929",
+    "options": ["1929", "1932", "1930", "1925"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which one of these tanks was designed and operated by the United Kingdom?",
+    "correctAnswer": "Tog II",
+    "options": ["M4 Sherman", "Tiger H1", "T-34", "Tog II"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+    "correctAnswer": "Nagasaki",
+    "options": ["Kawasaki", "Nagasaki", "Tokyo", "Kagoshima"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following African countries was most successful in resisting colonization?",
+    "correctAnswer": "Ethiopia",
+    "options": ["C&ocirc;te d&rsquo;Ivoire", "Ethiopia", "Congo", "Namibia"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+    "correctAnswer": "Illyrians",
+    "options": ["Illyrians", "Dorians", "Achaeans", "Ionians"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+    "correctAnswer": "Marie Antoinette",
+    "options": [
+      "Czar Nicholas II",
+      "Elizabeth I",
+      "Marie Antoinette",
+      "Henry VIII"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The original Roman alphabet lacked the following letters EXCEPT:",
+    "correctAnswer": "X",
+    "options": ["W", "X", "U", "J"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these countries remained neutral during World War II?",
+    "correctAnswer": "Switzerland",
+    "options": ["United Kingdom", "France", "Italy", "Switzerland"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was Manfred von Richthofen&#039;s nickname?",
+    "correctAnswer": "The Red Baron",
+    "options": [
+      "The High Flying Ace",
+      "The Blue Serpent",
+      "The Red Baron",
+      "The Germany Gunner"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which modern day country is the region that was known as Phrygia in ancient times?",
+    "correctAnswer": "Turkey",
+    "options": ["Syria", "Turkey", "Greece", "Egypt"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+    "correctAnswer": "1990",
+    "options": ["1990", "1992", "1988", "1986"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When did the Battle of the Somme begin?",
+    "correctAnswer": "July 1st, 1916",
+    "options": [
+      "August 1st, 1916",
+      "July 2nd, 1916",
+      "July 1st, 1916",
+      "June 30th, 1916"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the first president of the United States?",
+    "correctAnswer": "George Washington",
+    "options": [
+      "James Madison",
+      "George Washington",
+      "Thomas Jefferson",
+      "James K. Polk"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
+    "correctAnswer": "John Blunt",
+    "options": ["Daniel Defoe", "Robert Harley", "John Blunt", "John Churchill"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was Google founded?",
+    "correctAnswer": "September 4, 1998",
+    "options": [
+      "October 9, 1997",
+      "December 12, 1989",
+      "September 4, 1998",
+      "Feburary 7th, 2000"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the first sport to have been played on the moon?",
+    "correctAnswer": "Golf",
+    "options": ["Golf", "Football", "Tennis", "Soccer"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the first prime minister of Canada?",
+    "correctAnswer": "John Macdonald",
+    "options": [
+      "John Macdonald",
+      "John Abbott",
+      "Alexander Mackenzie",
+      "Robert Borden"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How was Socrates executed?",
+    "correctAnswer": "Poison",
+    "options": ["Decapitation", "Firing squad", "Crucifixion", "Poison"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How long did World War II last?",
+    "correctAnswer": "6 years",
+    "options": ["4 years", "6 years", "5 years", "7 years"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following countries was not an axis power during World War II?",
+    "correctAnswer": "Soviet Union",
+    "options": ["Soviet Union", "Italy", "Germany", "Japan"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 1939, Britain and France declared war on Germany after it invaded which country?",
+    "correctAnswer": "Poland",
+    "options": ["Czechoslovakia", "Poland", "Austria", "Hungary"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+    "correctAnswer": "Andrew Jackson",
+    "options": [
+      "Harry S. Truman",
+      "Martin Van Buren",
+      "Andrew Jackson",
+      "John Quincy Adams"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+    "correctAnswer": "The Polish President",
+    "options": [
+      "Pope John Paul II",
+      "Bang-Ding Ow",
+      "Albert Putin",
+      "The Polish President"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "To what political party did Abraham Lincoln belong when elected POTUS?",
+    "correctAnswer": "Republican",
+    "options": ["Democrat", "Republican", "Independent", "Whig"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "These two countries held a commonwealth from the 16th to 18th century.",
+    "correctAnswer": "Poland and Lithuania",
+    "options": [
+      "Hutu and Rwanda",
+      "Poland and Lithuania",
+      "North Korea and South Korea",
+      "Bangladesh and Bhutan"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What year did World War I begin?",
+    "correctAnswer": "1914",
+    "options": ["1905", "1914", "1919", "1925"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How old was Adolf Hitler when he died?",
+    "correctAnswer": "56",
+    "options": ["43", "56", "65", "47"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which modern country is known as &quot;The Graveyard of Empires&quot;?",
+    "correctAnswer": "Afghanistan",
+    "options": ["Afghanistan", "China", "Iraq", "Russia"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country was Josef Stalin born in?",
+    "correctAnswer": "Georgia",
+    "options": ["Russia", "Germany", "Georgia", "Poland"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who led the Communist Revolution of Russia?",
+    "correctAnswer": "Vladimir Lenin",
+    "options": [
+      "Joseph Stalin",
+      "Vladimir Putin",
+      "Vladimir Lenin",
+      "Mikhail Gorbachev"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following was Brazil was a former colony under?",
+    "correctAnswer": "Portugal",
+    "options": ["Spain", "Portugal", "The Netherlands", "France"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the historical name of Sri Lanka?",
+    "correctAnswer": "Ceylon",
+    "options": ["Ceylon", "Myanmar", "Colombo", "Badulla"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 1453, which important city fell?",
+    "correctAnswer": "Constantinople",
+    "options": ["Rome", "Hamburg", "Constantinople", "Athens"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+    "correctAnswer": "Silk Road",
+    "options": ["Spice Road", "Clay Road", "Silk Road", "Salt Road"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "On what street did the 1666 Great Fire of London start?",
+    "correctAnswer": "Pudding Lane",
+    "options": [
+      "Baker Street",
+      "Houses of Parliament",
+      "St Paul&#039;s Cathedral",
+      "Pudding Lane"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what year was the M1911 pistol designed?",
+    "correctAnswer": "1911",
+    "options": ["1907", "1899", "1911", "1917"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+    "correctAnswer": "1721",
+    "options": ["1726", "1721", "1727", "1724"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does the United States of America celebrate during the 4th of July?",
+    "correctAnswer": "The signing of the Declaration of Independence",
+    "options": [
+      "The anniversary of the Battle of Gettysburg",
+      "The crossing of the Delaware River",
+      "The signing of the Declaration of Independence",
+      "The ratification of the Constitution"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who rode on horseback to warn the Minutemen that the British were coming during the U.S. Revolutionary War?",
+    "correctAnswer": "Paul Revere",
+    "options": [
+      "Paul Revere",
+      "Thomas Paine",
+      "Henry Longfellow",
+      "Nathan Hale"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Abolitionist John Brown raided the arsenal in which Virginia Town?",
+    "correctAnswer": "Harper&#039;s Ferry",
+    "options": [
+      "Richmond",
+      "Harper&#039;s Ferry",
+      "Harrisonburg",
+      "Martinsburg"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Ottoman Empire was dissolved after their loss in which war?",
+    "correctAnswer": "World War I",
+    "options": [
+      "Crimean War",
+      "Serbian Revolution",
+      "Second Balkan War",
+      "World War I"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+    "correctAnswer": "Hannibal",
+    "options": ["Garmanicus", "Alexander the Great", "Hannibal", "Tiberius"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the first American in space?",
+    "correctAnswer": "Alan Shephard",
+    "options": ["Alan Shephard", "Neil Armstrong", "John Glenn", "Jim Lovell"]
+  }
+]

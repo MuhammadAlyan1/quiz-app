@@ -1,0 +1,475 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+      "correctAnswer": "Wales",
+      "options": ["Moldova", "Czech Republic", "Wales", "Denmark"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+      "correctAnswer": "Demolition",
+      "options": [
+        "Demolition",
+        "The Dream Team",
+        "The Bushwhackers",
+        "The British Bulldogs"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+      "correctAnswer": "Key",
+      "options": ["Sword", "Key", "Pen", "Cellphone"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does a funambulist walk on?",
+      "correctAnswer": "A Tight Rope",
+      "options": ["Broken Glass", "Balls", "The Moon", "A Tight Rope"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the largest organ of the human body?",
+      "correctAnswer": "Skin",
+      "options": ["Heart", "large Intestine", "Skin", "Liver"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which sign of the zodiac is represented by the Crab?",
+      "correctAnswer": "Cancer",
+      "options": ["Cancer", "Libra", "Virgo", "Sagittarius"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+      "correctAnswer": "Subscriber",
+      "options": ["Single", "Subscriber", "Secure", "Solid"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which American president appears on a one dollar bill?",
+      "correctAnswer": "George Washington",
+      "options": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Benjamin Franklin",
+        "George Washington"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is &quot;dabbing&quot;?",
+      "correctAnswer": "A dance",
+      "options": ["A medical procedure", "A dance", "A sport", "A language"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the shape of the toy invented by Hungarian professor Ern\u0151 Rubik?",
+      "correctAnswer": "Cube",
+      "options": ["Cube", "Sphere", "Cylinder", "Pyramid"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the Jewish New Year?",
+      "correctAnswer": "Rosh Hashanah",
+      "options": ["Elul", "New Year", "Succoss", "Rosh Hashanah"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which one of the following rhythm games was made by Harmonix?",
+      "correctAnswer": "Rock Band",
+      "options": [
+        "Meat Beat Mania",
+        "Rock Band",
+        "Guitar Hero Live",
+        "Dance Dance Revolution"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many colors are there in a rainbow?",
+      "correctAnswer": "7",
+      "options": ["7", "8", "9", "10"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the nickname of the US state of California?",
+      "correctAnswer": "Golden State",
+      "options": [
+        "Sunshine State",
+        "Bay State",
+        "Golden State",
+        "Treasure State"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+      "correctAnswer": "Spruce Goose",
+      "options": ["Noah&#039;s Ark", "Fat Man", "Trojan Horse", "Spruce Goose"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these colours is NOT featured in the logo for Google?",
+      "correctAnswer": "Pink",
+      "options": ["Yellow", "Pink", "Blue", "Green"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the Spanish word for &quot;donkey&quot;?",
+      "correctAnswer": "Burro",
+      "options": ["Caballo", "Toro", "Burro", "Perro"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the French word for &quot;hat&quot;?",
+      "correctAnswer": "Chapeau",
+      "options": ["Bonnet", " &Eacute;charpe", " Casque", "Chapeau"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Five dollars is worth how many nickles?",
+      "correctAnswer": "100",
+      "options": ["100", "50", "25", "69"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is depicted on the US hundred dollar bill?",
+      "correctAnswer": "Benjamin Franklin",
+      "options": [
+        "Benjamin Franklin",
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What do the letters in the GMT time zone stand for?",
+      "correctAnswer": "Greenwich Mean Time",
+      "options": [
+        "Global Meridian Time",
+        "General Median Time",
+        "Glasgow Man Time",
+        "Greenwich Mean Time"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+      "correctAnswer": "D. G. Yuengling and Son, Inc",
+      "options": [
+        "Anheuser Busch",
+        "Boston Beer Company",
+        "D. G. Yuengling and Son, Inc",
+        "Miller Coors"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+      "correctAnswer": "Truth",
+      "options": ["Answer", "Cause", "Source", "Truth"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Poland in Polish?",
+      "correctAnswer": "Polska",
+      "options": ["Polska", "Pupcia", "Polszka", "P&oacute;land"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+      "correctAnswer": "Print",
+      "options": ["Digest", "Print", "Look", "Read"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first ever London Underground line to be built?",
+      "correctAnswer": "Metropolitan Line",
+      "options": [
+        "Circle Line",
+        "Metropolitan Line",
+        "Bakerloo Line",
+        "Victoria Line"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How tall is the Burj Khalifa?",
+      "correctAnswer": "2,722 ft",
+      "options": ["2,717 ft", "2,722 ft", "2,546 ft", "3,024 ft"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+      "correctAnswer": "Libra",
+      "options": ["Libra", "Gemini", "Taurus", "Capricorn"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Tasmania?",
+      "correctAnswer": "An Australian State",
+      "options": [
+        "A flavor of Ben and Jerry&#039;s ice-cream",
+        "A Psychological Disorder",
+        "The Name of a Warner Brothers Cartoon Character",
+        "An Australian State"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the Zodiac symbol for Gemini?",
+      "correctAnswer": "Twins",
+      "options": ["Fish", "Twins", "Scales", "Maiden"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What zodiac sign is represented by a pair of scales?",
+      "correctAnswer": "Libra",
+      "options": ["Libra", "Aries", "Capricorn", "Sagittarius"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What nuts are used in the production of marzipan?",
+      "correctAnswer": "Almonds",
+      "options": ["Peanuts", "Walnuts", "Almonds", "Pistachios"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+      "correctAnswer": "Thomas Jefferson",
+      "options": [
+        "Martin Van Buren",
+        "Ulysses Grant",
+        "John Quincy Adams",
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Cynophobia the fear of?",
+      "correctAnswer": "Dogs",
+      "options": ["Birds", "Flying", "Dogs", "Germs"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+      "correctAnswer": "Plum",
+      "options": ["Plum", "Apple", "Peach", "Pear"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many furlongs are there in a mile?",
+      "correctAnswer": "Eight",
+      "options": ["Two", "Four", "Six", "Eight"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the closest planet to our solar system&#039;s sun?",
+      "correctAnswer": "Mercury",
+      "options": ["Mercury", "Mars", "Jupiter", "Earth"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+      "correctAnswer": "Hubble Space Telescope",
+      "options": [
+        "Big Eye",
+        "Death Star",
+        "Hubble Space Telescope",
+        "Millenium Falcon"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What are Panama hats made out of?",
+      "correctAnswer": "Straw",
+      "options": ["Silk", "Hemp", "Straw", "Flax"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Canadian $1 coin is colloquially known as a what?",
+      "correctAnswer": "Loonie",
+      "options": ["Boolie", "Foolie", "Loonie", "Moodie"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not the host of a program on NPR?",
+      "correctAnswer": "Ben Shapiro",
+      "options": ["Ben Shapiro", "Terry Gross", "Ira Glass", "Peter Sagal"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not an Ivy League University?",
+      "correctAnswer": "Stanford",
+      "options": [
+        "Stanford",
+        "University of Pennsylvania",
+        "Harvard",
+        "Princeton"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following blood component forms a plug at the site of injuries?",
+      "correctAnswer": "Platelets",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Blood plasma",
+        "Platelets"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the French word for &quot;fish&quot;?",
+      "correctAnswer": "poisson",
+      "options": ["fiche", "poisson", "escargot", "mer"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+      "correctAnswer": "Model",
+      "options": ["Model", "Professor", "Biologist", "Musician"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country has the union jack in its flag?",
+      "correctAnswer": "New Zealand",
+      "options": ["South Africa", "Canada", "Hong Kong", "New Zealand"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the Playstation 3 released?",
+      "correctAnswer": "November 11, 2006",
+      "options": [
+        "January 8, 2007",
+        "December 25, 2007",
+        "July 16, 2006",
+        "November 11, 2006"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+      "correctAnswer": "Swiss Air",
+      "options": ["Air France", "British Airways", "Swiss Air", "TWA"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+      "correctAnswer": "Helicopter",
+      "options": ["Stealth Blimp", "Jet", "Helicopter", "Space Capsule"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In aerodynamics, which force pushes an object upwards?",
+      "correctAnswer": "Lift",
+      "options": ["Drag", "Lift", "Weight", "Thrust"]
+    }
+  ]
+}

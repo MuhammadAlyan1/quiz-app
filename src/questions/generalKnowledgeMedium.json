@@ -1,0 +1,467 @@
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "According to the BBPA, what is the most common pub name in the UK?",
+    "correctAnswer": "Red Lion",
+    "options": ["Red Lion", "Royal Oak", "White Hart", "King&#039;s Head"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does a milliner make and sell?",
+    "correctAnswer": "Hats",
+    "options": ["Shoes", "Belts", "Shirts", "Hats"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+    "correctAnswer": "Mike",
+    "options": ["Matthew", "Mike", "Mark", "Max"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Rolex is a company that specializes in what type of product?",
+    "correctAnswer": "Watches",
+    "options": ["Cars", "Computers", "Watches", "Sports equipment"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Scotch whisky and Drambuie make up which cocktail?",
+    "correctAnswer": "Rusty Nail",
+    "options": ["Screwdriver", "Sex on the Beach", "Manhattan", "Rusty Nail"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the Morse code, which letter is indicated by 3 dots? ",
+    "correctAnswer": "S",
+    "options": ["O", "A", "C", "S"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+    "correctAnswer": "Government",
+    "options": ["Going", "Ghost", "Government", "Geronimo"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+    "correctAnswer": "Yale University",
+    "options": [
+      "Yale University",
+      "Princeton University",
+      "Harvard University",
+      "Columbia University"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 2013 how much money was lost by Nigerian scams?",
+    "correctAnswer": "$12.7 Billion",
+    "options": ["$95 Million", "$956 Million", "$12.7 Billion", "$2.7 Billion"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these companies does NOT manufacture automobiles?",
+    "correctAnswer": "Ducati",
+    "options": ["Nissan", "Ducati", "GMC", "Fiat"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is a co-founder of music streaming service Spotify?",
+    "correctAnswer": "Daniel Ek",
+    "options": [
+      "Sean Parker",
+      "Felix Miller",
+      "Michael Breidenbruecker",
+      "Daniel Ek"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the destination of the missing flight MH370?",
+    "correctAnswer": "Beijing",
+    "options": ["Kuala Lumpur", "Beijing", "Singapore", "Tokyo"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+    "correctAnswer": "Niagara Mohawk Building",
+    "options": [
+      "Taipei 101",
+      "Niagara Mohawk Building",
+      "One Detroit Center",
+      "Westendstrasse 1"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What alcoholic drink is mainly made from juniper berries?",
+    "correctAnswer": "Gin",
+    "options": ["Vodka", "Rum", "Gin", "Tequila"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+    "correctAnswer": "Tandoori",
+    "options": ["Biryani", "Pani puri", "Tiki masala", "Tandoori"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the Swedish word for &quot;window&quot;?",
+    "correctAnswer": "F&ouml;nster",
+    "options": ["H&aring;l", "F&ouml;nster", "Sk&auml;rm", "Ruta"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the Italian word for &quot;tomato&quot;?",
+    "correctAnswer": "Pomodoro",
+    "options": ["Pomodoro", "Aglio", "Cipolla", "Peperoncino"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the romanized Russian word for &quot;winter&quot;?",
+    "correctAnswer": "Zima",
+    "options": ["Leto", "Zima", "Vesna", "Osen&#039;"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+    "correctAnswer": "Big Mouth Billy Bass",
+    "options": [
+      "Big Billy Bass",
+      "Big Mouth Billy Bass",
+      "Singing Fish",
+      "Sardeen"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The term &quot;scientist&quot; was coined in which year?",
+    "correctAnswer": "1833",
+    "options": ["1833", "1933", "1942", "1796"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+    "correctAnswer": "Five",
+    "options": ["Twenty", "Ten", "One hundred", "Five"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is the founder of &quot;The Lego Group&quot;?",
+    "correctAnswer": "Ole Kirk Christiansen",
+    "options": [
+      "Ole Kirk Christiansen",
+      " Jens Niels Christiansen",
+      "Kirstine Christiansen",
+      " Gerhardt Kirk Christiansen"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a dead mall?",
+    "correctAnswer": "A mall with high vacancy rates or low consumer foot traffic",
+    "options": [
+      "A mall with no stores",
+      "A mall that has been condemed",
+      "A mall after business hours",
+      "A mall with high vacancy rates or low consumer foot traffic"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What character was once considered to be the 27th letter of the alphabet?",
+    "correctAnswer": "Ampersand",
+    "options": ["Interrobang", "Ampersand", "Tilde", "Pilcrow"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following carbonated soft drinks were introduced first?",
+    "correctAnswer": "Dr. Pepper",
+    "options": ["Coca-Cola", "Sprite", "Dr. Pepper", "Mountain Dew"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+    "correctAnswer": "Fruit Brute",
+    "options": ["Fruit Brute", "Count Chocula", "Franken Berry", "Boo-Berry"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When was Hubba Bubba first introduced?",
+    "correctAnswer": "1979",
+    "options": ["1984", "1972", "1979", "1980"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where does water from Poland Spring water bottles come from?",
+    "correctAnswer": "Maine, United States",
+    "options": [
+      "Hesse, Germany",
+      "Masovia, Poland",
+      "Bavaria, Poland",
+      "Maine, United States"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a Burgee?",
+    "correctAnswer": "A flag",
+    "options": ["A flag", "A rope", "A window", "A type of food"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who invented Pastafarianism?",
+    "correctAnswer": "Bobby Henderson",
+    "options": ["Eric Tignor", "Bill Nye", "Zach Soldi", "Bobby Henderson"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+    "correctAnswer": "Jumping over an office chair",
+    "options": [
+      "Jumping backwards over a desk",
+      "Jumping over an office chair",
+      "Standing on his head",
+      "Typing on a keyboard during a handstand"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+    "correctAnswer": "Hewlett-Packard",
+    "options": ["Hewlett-Packard", "Toshiba", "Asus", "Dell"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+    "correctAnswer": "We Love to See You Smile",
+    "options": [
+      "We Love to See You Smile",
+      "Why Pay More!?",
+      "Have It Your Way",
+      "Making People Happy Through Food"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the original name of the search engine &quot;Google&quot;?",
+    "correctAnswer": "BackRub",
+    "options": ["CatMassage", "BackRub", "SearchPro", "Netscape Navigator"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+    "correctAnswer": "Josh DeSeno",
+    "options": ["Justin DeSeno", "John DeSeno", "Josh DeSeno", "Jimmy DeSeno"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+    "correctAnswer": "Kilt",
+    "options": ["Skirt", "Dress", "Rhobes", "Kilt"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country drives on the left side of the road?",
+    "correctAnswer": "Japan",
+    "options": ["Japan", "Germany", "Russia", "China"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country has the most Trappist breweries?",
+    "correctAnswer": "Belgium",
+    "options": ["Netherlands", "France", "Belgium", "USA"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the star sign of someone born on Valentines day?",
+    "correctAnswer": "Aquarius",
+    "options": ["Pisces", "Aquarius", "Capricorn", "Scorpio"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+    "correctAnswer": "Horse",
+    "options": ["Weave", "Guitar", "Boat", "Horse"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+    "correctAnswer": "Shogun",
+    "options": ["Ninja", "Shogun", "Samurai", "Shinobi"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+    "correctAnswer": "M3",
+    "options": ["Colt 9mm", "Thompson", "M3", "MAC-10"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the highest number of Michelin stars a restaurant can receive?",
+    "correctAnswer": "Three",
+    "options": ["Four", "Five", "Six", "Three"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the full title of the Prime Minister of the UK?",
+    "correctAnswer": "First Lord of the Treasury",
+    "options": [
+      "First Lord of the Treasury",
+      "Duke of Cambridge",
+      "Her Majesty&#039;s Loyal Opposition",
+      "Manager of the Crown Estate"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+    "correctAnswer": "World War II",
+    "options": [
+      "Vietnam War",
+      "World War II",
+      "American Civil War",
+      "American Revolutionary War"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+    "correctAnswer": "Peace",
+    "options": ["Physics", "Peace", "Economics", "Physiology/Medicine"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+    "correctAnswer": "Modernism",
+    "options": ["Modernism", "Neoclassical", "Baroque", "Gothic Revival"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Frank Lloyd Wright was the architect behind what famous building?",
+    "correctAnswer": "The Guggenheim",
+    "options": [
+      "Villa Savoye",
+      "Sydney Opera House",
+      "The Space Needle",
+      "The Guggenheim"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What fast food chain has the most locations globally? ",
+    "correctAnswer": "Subway",
+    "options": ["Starbucks", "McDonalds", "Subway", "KFC"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+    "correctAnswer": "Snivy, Tepig, Oshawott",
+    "options": [
+      "Snivy, Tepig, Oshawott",
+      "Snivy, Fennekin, Froakie",
+      "Chespin, Tepig, Froakie",
+      "Chespin, Fennekin, Oshawott"
+    ]
+  }
+]

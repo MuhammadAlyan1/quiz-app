@@ -1,0 +1,502 @@
+[
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When was the first Call of Duty title released?",
+    "correctAnswer": "October 29, 2003",
+    "options": [
+      "December 1, 2003",
+      "November 14, 2002",
+      "October 29, 2003",
+      "July 18, 2004"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the code name given to Sonic the Hedgehog 4 during its development?",
+    "correctAnswer": "Project Needlemouse",
+    "options": [
+      "Project Bluespike",
+      "Project Roboegg",
+      "Project Needlemouse",
+      "Project Darksphere"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of your team in Star Wars: Republic Commando?",
+    "correctAnswer": "Delta Squad",
+    "options": [
+      "Delta Squad",
+      "The Commandos",
+      "Bravo Six",
+      "Vader&#039;s Fist"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the game &quot;The Sims&quot;, how many Simoleons does each family start with?",
+    "correctAnswer": "20,000",
+    "options": ["10,000", "15,000", "25,000", "20,000"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The map featured in Arma 3 named &quot;Altis&quot; is based off of what Greek island?",
+    "correctAnswer": "Lemnos",
+    "options": ["Ithaca", "Naxos", "Lemnos", "Anafi"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many copies of the notorious E.T. game for the Atari 2600 did Atari end up selling?",
+    "correctAnswer": "1.5 Million",
+    "options": [
+      "1 Million",
+      "1.5 Million",
+      "250 Thousand",
+      "Less than 250 Thousand"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Gamecube Version of &quot;Resident Evil&quot; what text document is open on the monitor of the computer in the Visual Data Room?",
+    "correctAnswer": "A GDC Document",
+    "options": [
+      "Text Document on Herbs",
+      "Nothing",
+      "A GDC Document",
+      "Document on B.O.Ws"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Animal Crossing series, which flower is erroneously called the &quot;Jacob&#039;s Ladder&quot;?",
+    "correctAnswer": "Lily of the Valley",
+    "options": ["Lily of the Valley", "Hydrangea", "Harebell", "Yarrow"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When was the first &quot;Half-Life&quot; released?",
+    "correctAnswer": "1998",
+    "options": ["2004", "1999", "1998", "1997"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When was Steam first released?",
+    "correctAnswer": "2003",
+    "options": ["2003", "2004", "2011", "2007"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?",
+    "correctAnswer": "Jill",
+    "options": ["Dana", "Alma", "Jill", "Anna"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How long was the World Record Speed Run of Valve Software&#039;s &quot;Half-Life&quot; that was done in 2014.",
+    "correctAnswer": "20 Minutes, 41 Seconds",
+    "options": [
+      "45 Minutes, 32 Seconds",
+      "5 Minutes, 50 Seconds",
+      "12 Minutes, 59 Seconds",
+      "20 Minutes, 41 Seconds"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these is NOT a possible drink to be made in the game &quot;VA-11 HALL-A: Cyberpunk Bartender Action&quot;?",
+    "correctAnswer": "Sour Appletini",
+    "options": ["Fringe Weaver", "Sour Appletini", "Piano Man", "Bad Touch"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Fallout series, on which date did The Great War happen?",
+    "correctAnswer": "October 23rd, 2077",
+    "options": [
+      "May 15th, 2058",
+      "December 14th, 2069",
+      "November 5th, 2076",
+      "October 23rd, 2077"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the world&#039;s first handheld game device?",
+    "correctAnswer": "Mattel Auto Race",
+    "options": [
+      "Game Boy",
+      "Microvision",
+      "Mattel Auto Race",
+      "Game &amp; Watch"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What animal is on Link&#039;s pajamas in The Legend of Zelda: The Wind Waker?",
+    "correctAnswer": "Crawfish",
+    "options": ["Lobster", "Salmon", "Crawfish", "Swordfish"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these weapon classes DO NOT appear in the first Monster Hunter game?",
+    "correctAnswer": "Bow",
+    "options": ["Bow", "Hammer", "Heavy Bowgun", "Light Bowgun"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the video game &quot;Metal Gear Solid&quot;, what did Revolver Ocelot consider the greatest handgun ever made?",
+    "correctAnswer": "Colt Single Action Army",
+    "options": [
+      "Colt Python",
+      "Colt M1892",
+      "Colt Single Action Army",
+      "Colt 1851 Navy Revolver"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which car did not appear in the 2002 Lego Game: Drome Racers?",
+    "correctAnswer": "Wasp",
+    "options": ["Raptor", "Hornet", "Wasp", "Behemoth"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
+    "correctAnswer": "Festung Recogne",
+    "options": [
+      "Festung Recogne",
+      "Ste. Mere-Eglise (Day)",
+      "Chateau",
+      "Brecourt"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina&#039;s ultimate ability is what?",
+    "correctAnswer": "Ultimate Swimmer",
+    "options": [
+      "Ultimate Detective",
+      "Ultimate Gambler",
+      "Ultimate Dancer",
+      "Ultimate Swimmer"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In what year was the game &quot;Eliminator&quot; released?",
+    "correctAnswer": "1998",
+    "options": ["1998", "2000", "1999", "2001"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The voice actor for which Portal 2 character was not a TV or film actor prior to the game?",
+    "correctAnswer": "GLaDOS",
+    "options": ["Cave Johnson", "Wheatley", "GLaDOS", "Atlas / P-Body"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into &quot;Super Smash Bros.&quot;?",
+    "correctAnswer": "Dragon King: The Fighting Game",
+    "options": [
+      "Dragon King: The Fighting Game",
+      "Nintendo Legends: Fight!",
+      "Martial Arts: King of the Hill",
+      "Aerial Warriors: Supreme Battle"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Pok&eacute;mon series, what is Palkia&#039;s hidden ability?",
+    "correctAnswer": "Telepathy",
+    "options": ["Pressure", "Water Bubble", "Telepathy", "Hydration"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?",
+    "correctAnswer": "58",
+    "options": ["48", "51", "55", "58"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many trophies are there in &quot;Super Smash Bros. for Nintendo 3DS&quot;?",
+    "correctAnswer": "685",
+    "options": ["1360", "685", "716", "1155"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?",
+    "correctAnswer": "A shell",
+    "options": ["A shell", "A slide of Gelatin", "A poffin", "A spike"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Halo&quot;, what is the name of the planet which Installation 04 orbits?",
+    "correctAnswer": "Threshold",
+    "options": ["Substance", "Sanghelios", "Te", "Threshold"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many voice channels does the Super Nintendo Entertainment System support?",
+    "correctAnswer": "8",
+    "options": ["6", "8", "10", "12"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "&quot;Gimmick!&quot; is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
+    "correctAnswer": "FME-7",
+    "options": ["VRC7", "FME-7", "VRC6", "MMC5"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which variant of the MP5 is depicted in Counter-Strike 1.6?",
+    "correctAnswer": "MP5N",
+    "options": ["MP5N", "MP5SD", "MP5K", "MP5RAS"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the &quot;Little Lost Girl&quot; Easter Egg in Call of Duty: Black Ops II, what&#039;s the last step required for the achievement?",
+    "correctAnswer": "Raise Hell",
+    "options": [
+      "Freedom",
+      "Raise Hell",
+      "Skewer the Winged Beast",
+      "Ascend from Darkness"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which game in the &quot;Monster Hunter&quot; series introduced the monster &quot;Gobul&quot;?",
+    "correctAnswer": "Monster Hunter Tri",
+    "options": [
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Frontier",
+      "Monster Hunter Generations",
+      "Monster Hunter Tri"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the &quot;Devil May Cry&quot; franchise, which game is chronologically first?",
+    "correctAnswer": "Devil May Cry 3: Dante&#039;s Awakening ",
+    "options": ["Devil May Cry 4", "Devil May Cry", "Devil May Cry 2"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Starbound&quot;, according to the asset files, the description of the &quot;Erchius Ghost&quot; is the same as which other assets?",
+    "correctAnswer": "Spookit",
+    "options": ["Petricub", "Trictus", "Spookit", "Pyromantle"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "According to the lore of &quot;Starbound&quot;, what does the &quot;Colony Deed&quot; do when it is placed down?",
+    "correctAnswer": "Sends out an advertisement for someone to move in.",
+    "options": [
+      "Teleports somebody from somewhere on the planet it is placed.",
+      "Sends out an advertisement for someone to move in.",
+      "Teleports a random person to the location.",
+      "Materializes a new being at it&#039;s location."
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the &quot;PAYDAY&quot; series, what is the real name of the character known as &quot;Dallas&quot;?",
+    "correctAnswer": "Nathan Steele",
+    "options": [
+      "Nate Siemens",
+      "Nick Stamos",
+      "Nathan Steele",
+      "Nolan Stuhlinger"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the first &quot;Call Of Duty: Zombies&quot; map to be directed by Jason Blundell?",
+    "correctAnswer": "Mob Of The Dead",
+    "options": ["Mob Of The Dead", "Buried", "Origins", "Moon"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Call Of Duty: Zombies&quot;, &quot;Richtofen&quot; is in possession of two filled blood vials belonging to who?",
+    "correctAnswer": "Sal DeLuca and Finn O&#039;Leary",
+    "options": [
+      "Richtofen",
+      "Al Arlington and Sal DeLuca",
+      "Jessica Rose and Jack Vincent",
+      "Sal DeLuca and Finn O&#039;Leary"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which artist composed the original soundtrack for &quot;Watch Dogs 2&quot;?",
+    "correctAnswer": "Hudson Mohawke",
+    "options": ["Rustie", "Hudson Mohawke", "Machinedrum", "Flying Lotus"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Team Fortress 2&quot;, what is the fastest taunt kill that can be pulled off?",
+    "correctAnswer": "Showdown",
+    "options": ["Showdown", "Hadouken", "Organ Grinder", "Skewer"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the 4th boss in the 1997 video game &quot;Crash Bandicoot 2: Cortex Strikes Back&quot;?",
+    "correctAnswer": "Dr. N. Gin",
+    "options": ["Dr. Neo Cortex", "Komodo Brothers", "Tiny Tiger", "Dr. N. Gin"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What military rank is the protagonist &quot;Nomad&quot; in &quot;Crysis&quot;?",
+    "correctAnswer": "First Lieutenant",
+    "options": [
+      "Captain",
+      "First Lieutenant",
+      "First Sargent ",
+      "Staff Sargent"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of Sonic the Hedgehog&#039;s original human girlfriend?",
+    "correctAnswer": "Madonna",
+    "options": ["Celeste", "Sierra", "Madonna", "Nina"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which gaming series includes &quot;The Diabolical Box&quot; and &quot;The Curious Village&quot;?",
+    "correctAnswer": "Professor Layton",
+    "options": [
+      "Persona",
+      "Etrian Odyssey",
+      "Professor Layton",
+      "Sam &amp; Max"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "&quot;Strangereal&quot; is a fictitious Earth-like world for which game series?",
+    "correctAnswer": "Ace Combat",
+    "options": ["Ace Combat", "Jet Set Radio", "Deus Ex", "Crimson Skies"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What Touhou Project character&#039;s first ever appearance was as a midboss in the eighth game, Imperishable Night?",
+    "correctAnswer": "Tewi Inaba",
+    "options": ["Mystia Lorelei", "Tewi Inaba", "Kaguya Houraisan", "Rumia"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Team Fortress 2 canon, what did Shakespearicles NOT invent?",
+    "correctAnswer": "Stairs",
+    "options": ["Two-Story Building", "Rocket Launcher", "Stage Play", "Stairs"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "GoldenEye 007 on the Nintendo 64 was planned to allow you to play as all previous Bond actors, with the exception of who?",
+    "correctAnswer": "George Lazenby",
+    "options": [
+      "Roger Moore",
+      "Sean Connery",
+      "George Lazenby",
+      "Timothy Dalton"
+    ]
+  }
+]
