@@ -82,7 +82,12 @@
     "difficulty": "hard",
     "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
     "correctAnswer": "The Goth Family",
-    "options": ["The Family", "The Simoleon Family", "The Proud Family"]
+    "options": [
+      "The Family",
+      "The Goth Family",
+      "The Simoleon Family",
+      "The Proud Family"
+    ]
   },
   {
     "category": "General Knowledge",
