@@ -443,7 +443,12 @@
     "difficulty": "hard",
     "question": "Which of these cities does NOT have a United States Minting location?",
     "correctAnswer": "St. Louis, MO",
-    "options": ["San Fransisco, CA", "Philidelphia, PA", "West Point, NY"]
+    "options": [
+      "San Fransisco, CA",
+      "Philidelphia, PA",
+      "West Point, NY",
+      "St. Louis, MO"
+    ]
   },
   {
     "category": "General Knowledge",
