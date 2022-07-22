@@ -1,18 +1,39 @@
 function reducer(state, action) {
   switch (action.type) {
+    case 'SET_QUIZ_DETAILS': {
+      const { amount, category, difficulty } = action.payload;
+      return {
+        ...state,
+        amount,
+        category,
+        difficulty,
+        isQuizSelectionDisplaying: false,
+      };
+    }
+
     case 'SET_QUIZZES':
       return {
         ...state,
         listOfQuizzes: [...action.payload],
       };
 
+    case 'START_QUIZ': {
+      const { amount, category, difficulty } = action.payload;
+
+      return {
+        ...state,
+        amount,
+        category,
+        difficulty,
+        isQuizSelectionDisplaying: false,
+      };
+    }
+
     case 'GO_TO_NEXT_QUIZ':
-      // =========================================
-      // TODO: handle end of quiz question
-      // =========================================
       if (state.currentQuizIndex === state.amount - 1) {
         return {
           ...state,
+          isResultDisplaying: true,
         };
       }
       return {
@@ -38,17 +59,12 @@ function reducer(state, action) {
         isResultDisplaying: true,
       };
 
-    // ============================================================
-    // Go to quiz selection
     case 'TRY_AGAIN':
       return {
-        Amount: 10,
-        listOfQuizzes: [],
-        category: 'all',
-        type: 'mcqs',
-        difficulty: 'all',
-        isCorrectChoice: true,
+        ...state,
+        isQuizSelectionDisplaying: true,
         isResultDisplaying: false,
+        isCorrectChoice: true,
         currentQuizIndex: 0,
         score: 0,
       };
