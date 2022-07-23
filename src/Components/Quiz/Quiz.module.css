@@ -5,7 +5,6 @@ quiz
 */
 
 .quiz {
-  max-width: 950px;
   padding: 2rem;
   box-sizing: border-box;
   background-color: var(--clr-grey);
