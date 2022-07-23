@@ -43,7 +43,7 @@ const Quiz = (props) => {
       }
     });
 
-    if (!e.target.classList.contains('correct')) {
+    if (!e.target.classList.contains(`${styles.correct}`)) {
       e.target.classList.add(`${styles.incorrect}`);
       dispatch({ type: 'INCORRECT_CHOICE' });
     }
