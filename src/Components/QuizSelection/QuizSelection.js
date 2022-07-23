@@ -63,46 +63,4 @@ export default function QuizSelection() {
       </div>
     );
   }
-
-  // return (
-  //   <div className={styles.quizSelection}>
-  //     <div className={styles.amountContainer}>
-  //       <label htmlFor="amount">select amount</label>
-  //       <input
-  //         id="amount"
-  //         type="number"
-  //         value={amount}
-  //         onChange={(e) => setAmount(e.target.value)}
-  //       />
-  //     </div>
-  //     <div className={styles.categoryContainer}>
-  //       <label htmlFor="category">select category</label>
-  //       <select
-  //         id="category"
-  //         value={category}
-  //         onChange={(e) => setCategory(e.target.value)}
-  //       >
-  //         <option value="generalKnowledge">General Knowledge</option>
-  //         <option value="videoGame">Video Game</option>
-  //         <option value="history">History</option>
-  //         <option value="computer">Computer</option>
-  //       </select>
-  //     </div>
-  //     <div className={styles.difficultyContainer}>
-  //       <label htmlFor="difficulty">select difficulty</label>
-  //       <select
-  //         id="difficulty"
-  //         value={difficulty}
-  //         onChange={(e) => setDifficulty(e.target.value)}
-  //       >
-  //         <option value="easy">Easy</option>
-  //         <option value="medium">Medium</option>
-  //         <option value="hard">Hard</option>
-  //       </select>
-  //     </div>
-  //     <button onClick={setQuizDetails} type="submit">
-  //       start quiz
-  //     </button>
-  //   </div>
-  // );
 }
