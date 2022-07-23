@@ -18,7 +18,7 @@
     "difficulty": "hard",
     "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
     "correctAnswer": "Bulldog",
-    "options": ["Yorkshire Terrier", "Boxer", "Pug"]
+    "options": ["Yorkshire Terrier", "Boxer", "Bulldog", "Pug"]
   },
   {
     "category": "General Knowledge",
@@ -26,7 +26,7 @@
     "difficulty": "hard",
     "question": "What is the airspeed velocity of an unladen swallow?",
     "correctAnswer": "24 MPH",
-    "options": ["15 MPH", "20 MPH", "200 MPH"]
+    "options": ["15 MPH", "24 MPH", "20 MPH", "200 MPH"]
   },
   {
     "category": "General Knowledge",
@@ -34,7 +34,12 @@
     "difficulty": "hard",
     "question": "When was &quot;YouTube&quot; founded?",
     "correctAnswer": "February 14, 2005",
-    "options": ["May 22, 2004", "September 12, 2005", "July 19, 2009"]
+    "options": [
+      "May 22, 2004",
+      "September 12, 2005",
+      "July 19, 2009",
+      "February 14, 2005"
+    ]
   },
   {
     "category": "General Knowledge",
@@ -42,7 +47,7 @@
     "difficulty": "hard",
     "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
     "correctAnswer": "Parlor",
-    "options": ["Open Room", "Sitting Room", "Loft"]
+    "options": ["Open Room", "Sitting Room", "Parlor", "Loft"]
   },
   {
     "category": "General Knowledge",
@@ -50,7 +55,7 @@
     "difficulty": "hard",
     "question": "What year was Queen Elizabeth II born?",
     "correctAnswer": "1926",
-    "options": ["1923", "1929", "1930"]
+    "options": ["1923", "1926", "1929", "1930"]
   },
   {
     "category": "General Knowledge",
@@ -58,7 +63,7 @@
     "difficulty": "hard",
     "question": "Which of the following is not another name for the eggplant?",
     "correctAnswer": "Potimarron",
-    "options": ["Brinjal", "Guinea Squash", "Melongene"]
+    "options": ["Brinjal", "Guinea Squash", "Potimarron", "Melongene"]
   },
   {
     "category": "General Knowledge",
@@ -66,7 +71,7 @@
     "difficulty": "hard",
     "question": "Which of the following chemicals are found in eggplant seeds?",
     "correctAnswer": "Nicotine",
-    "options": ["Mescaline", "Cyanide", "Psilocybin"]
+    "options": ["Nicotine", "Mescaline", "Cyanide", "Psilocybin"]
   },
   {
     "category": "General Knowledge",
@@ -74,7 +79,7 @@
     "difficulty": "hard",
     "question": "Sciophobia is the fear of what?",
     "correctAnswer": "Shadows",
-    "options": ["Eating", "Bright lights", "Transportation"]
+    "options": ["Shadows", "Eating", "Bright lights", "Transportation"]
   },
   {
     "category": "General Knowledge",
@@ -95,7 +100,7 @@
     "difficulty": "hard",
     "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
     "correctAnswer": "OCBC",
-    "options": ["HSBC", "Standard Chartered", "Bank of China"]
+    "options": ["HSBC", "Standard Chartered", "OCBC", "Bank of China"]
   },
   {
     "category": "General Knowledge",
@@ -111,7 +116,7 @@
     "difficulty": "hard",
     "question": "What is the romanized Korean word for &quot;heart&quot;?",
     "correctAnswer": "Simjang",
-    "options": ["Aejeong", "Jeongsin", "Segseu"]
+    "options": ["Aejeong", "Jeongsin", "Simjang", "Segseu"]
   },
   {
     "category": "General Knowledge",
@@ -119,7 +124,7 @@
     "difficulty": "hard",
     "question": "What is the romanized Arabic word for &quot;moon&quot;?",
     "correctAnswer": "Qamar",
-    "options": ["Najma", "Kawkab", "Shams"]
+    "options": ["Najma", "Qamar", "Kawkab", "Shams"]
   },
   {
     "category": "General Knowledge",
@@ -127,7 +132,7 @@
     "difficulty": "hard",
     "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
     "correctAnswer": "Madeon",
-    "options": ["Mat Zo", "deadmau5", "Zedd"]
+    "options": ["Mat Zo", "deadmau5", "Zedd", "Madeon"]
   },
   {
     "category": "General Knowledge",
@@ -135,7 +140,7 @@
     "difficulty": "hard",
     "question": "The Swedish word &quot;Grunka&quot; means what in English?",
     "correctAnswer": "Thing",
-    "options": ["People", "Place", "Pineapple"]
+    "options": ["People", "Place", "Thing", "Pineapple"]
   },
   {
     "category": "General Knowledge",
@@ -143,7 +148,7 @@
     "difficulty": "hard",
     "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
     "correctAnswer": "Harry",
-    "options": ["Gus", "Phineas", "Ezra"]
+    "options": ["Harry", "Gus", "Phineas", "Ezra"]
   },
   {
     "category": "General Knowledge",
@@ -151,7 +156,7 @@
     "difficulty": "hard",
     "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
     "correctAnswer": "1 Month",
-    "options": ["3 Weeks", "1 Week", "2 Months"]
+    "options": ["3 Weeks", "1 Week", "2 Months", "1 Month"]
   },
   {
     "category": "General Knowledge",
@@ -159,7 +164,7 @@
     "difficulty": "hard",
     "question": "Which of the following languages does NOT use gender as a part of its grammar?",
     "correctAnswer": "Turkish",
-    "options": ["German", "Danish", "Polish"]
+    "options": ["German", "Danish", "Turkish", "Polish"]
   },
   {
     "category": "General Knowledge",
@@ -167,7 +172,7 @@
     "difficulty": "hard",
     "question": "Which one of these Swedish companies was founded in 1943?",
     "correctAnswer": "IKEA",
-    "options": ["H &amp; M", "Lindex", "Clas Ohlson"]
+    "options": ["H &amp; M", "Lindex", "IKEA", "Clas Ohlson"]
   },
   {
     "category": "General Knowledge",
@@ -183,7 +188,7 @@
     "difficulty": "hard",
     "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
     "correctAnswer": "Center Parcs",
-    "options": ["Yelloh Village", "Keycamp", "Villa Plus"]
+    "options": ["Yelloh Village", "Keycamp", "Villa Plus", "Center Parcs"]
   },
   {
     "category": "General Knowledge",
@@ -191,7 +196,7 @@
     "difficulty": "hard",
     "question": "What year was the RoboSapien toy robot released?",
     "correctAnswer": "2004",
-    "options": ["2000", "2001", "2006"]
+    "options": ["2000", "2001", "2004", "2006"]
   },
   {
     "category": "General Knowledge",
@@ -199,7 +204,7 @@
     "difficulty": "hard",
     "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
     "correctAnswer": "7 years",
-    "options": ["2 years", "8 years", "6 months"]
+    "options": ["2 years", "7 years", "8 years", "6 months"]
   },
   {
     "category": "General Knowledge",
@@ -207,7 +212,7 @@
     "difficulty": "hard",
     "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
     "correctAnswer": "28%",
-    "options": ["13%", "20%", "7%"]
+    "options": ["13%", "20%", "28%", "7%"]
   },
   {
     "category": "General Knowledge",
@@ -217,6 +222,7 @@
     "correctAnswer": "Bank of Italy",
     "options": [
       "Bank of Long Island",
+      "Bank of Italy",
       "Bank of Pennsylvania",
       "Bank of Charlotte"
     ]
@@ -227,7 +233,7 @@
     "difficulty": "hard",
     "question": "Which product did Nokia, the telecommunications company, originally sell?",
     "correctAnswer": "Paper",
-    "options": ["Phones", "Computers", "Processors"]
+    "options": ["Paper", "Phones", "Computers", "Processors"]
   },
   {
     "category": "General Knowledge",
@@ -237,6 +243,7 @@
     "correctAnswer": "I came, I saw, I conquered",
     "options": [
       "See no evil, hear no evil, speak no evil",
+      "I came, I saw, I conquered",
       "Life, liberty, and happiness",
       "Past, present, and future"
     ]
@@ -247,7 +254,12 @@
     "difficulty": "hard",
     "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
     "correctAnswer": "Andrew Scott Reisse",
-    "options": ["Nate Mitchell", "Jack McCauley", "Palmer Luckey"]
+    "options": [
+      "Nate Mitchell",
+      "Andrew Scott Reisse",
+      "Jack McCauley",
+      "Palmer Luckey"
+    ]
   },
   {
     "category": "General Knowledge",
@@ -255,7 +267,7 @@
     "difficulty": "hard",
     "question": "Who founded the Khan Academy?",
     "correctAnswer": "Sal Khan",
-    "options": ["Ben Khan", "Kitt Khan", "Adel Khan"]
+    "options": ["Ben Khan", "Kitt Khan", "Sal Khan", "Adel Khan"]
   },
   {
     "category": "General Knowledge",
@@ -264,6 +276,7 @@
     "question": "If someone said &quot;you are olid&quot;, what would they mean?",
     "correctAnswer": "You smell extremely unpleasant.",
     "options": [
+      "You smell extremely unpleasant.",
       "You are out of shape/weak.",
       "Your appearance is repulsive.",
       "You are incomprehensible/an idiot."
@@ -275,7 +288,7 @@
     "difficulty": "hard",
     "question": "Named after the mallow flower, mauve is a shade of what?",
     "correctAnswer": "Purple",
-    "options": ["Red", "Brown", "Pink"]
+    "options": ["Red", "Purple", "Brown", "Pink"]
   },
   {
     "category": "General Knowledge",
@@ -283,7 +296,7 @@
     "difficulty": "hard",
     "question": "Chartreuse is a color between yellow and what?",
     "correctAnswer": "Green",
-    "options": ["Red", "Black", "Purple"]
+    "options": ["Red", "Black", "Purple", "Green"]
   },
   {
     "category": "General Knowledge",
@@ -291,7 +304,7 @@
     "difficulty": "hard",
     "question": "Originally another word for poppy, coquelicot is a shade of what?",
     "correctAnswer": "Red",
-    "options": ["Green", "Blue", "Pink"]
+    "options": ["Red", "Green", "Blue", "Pink"]
   },
   {
     "category": "General Knowledge",
@@ -302,6 +315,7 @@
     "options": [
       "Sleeping with your eyes open",
       "Breaking glass with your voice",
+      "Finding shapes in clouds",
       "Swimming in freezing water"
     ]
   },
@@ -314,7 +328,8 @@
     "options": [
       "A building in Oxford University",
       "A chess move",
-      "A geometric theorem"
+      "A geometric theorem",
+      "A percussion instrument"
     ]
   },
   {
@@ -326,6 +341,7 @@
     "options": [
       "Redwood City, California",
       "Redmond, Washington",
+      "Cupertino, California",
       "Santa Monica, CA"
     ]
   },
@@ -337,6 +353,7 @@
     "correctAnswer": "St. Peter&#039;s Basilica",
     "options": [
       "Catania Cathedral",
+      "St. Peter&#039;s Basilica",
       "St. Mark&rsquo;s Basilica",
       "The Duomo of Florence"
     ]
@@ -347,7 +364,7 @@
     "difficulty": "hard",
     "question": "If you planted the seeds of Quercus robur, what would grow?",
     "correctAnswer": "Trees",
-    "options": ["Grains", "Vegetables", "Flowers"]
+    "options": ["Grains", "Trees", "Vegetables", "Flowers"]
   },
   {
     "category": "General Knowledge",
@@ -355,7 +372,7 @@
     "difficulty": "hard",
     "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
     "correctAnswer": "Copper",
-    "options": ["Iron", "Nickel", "Silver"]
+    "options": ["Copper", "Iron", "Nickel", "Silver"]
   },
   {
     "category": "General Knowledge",
@@ -363,7 +380,7 @@
     "difficulty": "hard",
     "question": "How many notes are there on a standard grand piano?",
     "correctAnswer": "88",
-    "options": ["98", "108", "78"]
+    "options": ["98", "108", "78", "88"]
   },
   {
     "category": "General Knowledge",
@@ -374,7 +391,8 @@
     "options": [
       "Snake Pit",
       "The Tomb of the Acient&#039;s",
-      "The Puppet Master&#039;s Theater"
+      "The Puppet Master&#039;s Theater",
+      "The Shatter&#039;s"
     ]
   },
   {
@@ -383,7 +401,7 @@
     "difficulty": "hard",
     "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
     "correctAnswer": "35 Pounds",
-    "options": ["30 Pounds", "40 Pounds", "32.50 Pounds"]
+    "options": ["30 Pounds", "35 Pounds", "40 Pounds", "32.50 Pounds"]
   },
   {
     "category": "General Knowledge",
@@ -391,7 +409,7 @@
     "difficulty": "hard",
     "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
     "correctAnswer": "15%",
-    "options": ["20%", "10%", "25%"]
+    "options": ["20%", "10%", "15%", "25%"]
   },
   {
     "category": "General Knowledge",
@@ -399,7 +417,7 @@
     "difficulty": "hard",
     "question": "What is the most commonly used noun in the English language?",
     "correctAnswer": "Time",
-    "options": ["Home", "Water", "Man"]
+    "options": ["Time", "Home", "Water", "Man"]
   },
   {
     "category": "General Knowledge",
@@ -410,6 +428,7 @@
     "options": [
       "The inability to stand up",
       "The inability to concentrate on anything",
+      "The inability to make decisions",
       "A feverish desire to rip one&#039;s clothes off"
     ]
   },
@@ -421,6 +440,7 @@
     "correctAnswer": "The inability to stand up",
     "options": [
       "The inability to make decisions",
+      "The inability to stand up",
       "The inability to concentrate on anything",
       "A feverish desire to rip one&#039;s clothes off"
     ]
@@ -434,7 +454,8 @@
     "options": [
       "The inability to make decisions",
       "A feverish desire to rip one&#039;s clothes off",
-      "The inability to stand up"
+      "The inability to stand up",
+      "The inability to concentrate on anything"
     ]
   },
   {
@@ -456,6 +477,6 @@
     "difficulty": "hard",
     "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
     "correctAnswer": "Edward VIII",
-    "options": ["Victoria", "George VI", "Charles II"]
+    "options": ["Victoria", "George VI", "Charles II", "Edward VIII"]
   }
 ]
