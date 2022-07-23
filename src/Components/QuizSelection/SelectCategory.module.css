@@ -1,0 +1,94 @@
+/* 
+========================
+categoriesContainer
+========================
+
+*/
+.categoriesContainer {
+  max-width: 950px;
+  min-height: 450px;
+  background-color: var(--clr-grey);
+  padding: 1rem;
+}
+
+.categoriesContainer h1 {
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--clr-white);
+  width: fit-content;
+  margin-inline: auto;
+  padding-top: 3rem;
+}
+
+.categoriesContainer button {
+  font-size: 2.5rem;
+  font-weight: bold;
+  background-color: transparent;
+  color: var(--clr-white);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-inline: auto;
+  margin-top: 6rem;
+}
+
+/* 
+====================
+categories
+====================
+*/
+
+.categories {
+  margin-top: 4rem;
+  max-width: 700px;
+  margin-inline: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 1rem;
+}
+
+.category {
+  background-color: var(--clr-white);
+  padding: 1rem;
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: 200px;
+  min-height: 110px;
+  cursor: pointer;
+
+  /* centering text within container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* setting 20% of parent */
+  flex-basis: 0px;
+  flex-grow: 1;
+}
+
+.selectedCategory {
+  outline: 2px solid var(--clr-green);
+}
+
+.category p {
+  font-size: 0.875rem;
+  color: var(--clr-grey);
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+
+.selectedCategory p {
+  color: var(--clr-green);
+}
+
+@media (max-width: 895px) {
+  .categories {
+    max-width: 430px;
+    margin-inline: auto;
+  }
+}
