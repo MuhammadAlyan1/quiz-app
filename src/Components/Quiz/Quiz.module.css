@@ -1,0 +1,112 @@
+/* 
+==================
+quiz
+==================
+*/
+
+.quiz {
+  max-width: 950px;
+  padding: 2rem;
+  box-sizing: border-box;
+  background-color: var(--clr-grey);
+}
+
+.quiz .question {
+  font-weight: 700;
+  color: var(--clr-white);
+  margin-bottom: 1rem;
+}
+
+.quiz .nextBtn {
+  font-size: 1.125rem;
+  font-weight: 700;
+  text-transform: capitalize;
+  color: var(--clr-white);
+  background-color: var(--clr-gold);
+  display: block;
+  padding: 0.75rem 2rem;
+  margin-left: auto;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+/* 
+==================
+choiceDiv
+==================
+*/
+
+.choiceDiv button {
+  font-size: 1.125rem;
+  font-weight: 500;
+  text-align: start;
+  color: var(--clr-white);
+  background-color: transparent;
+  padding: 0.5rem 3.5rem;
+  width: 100%;
+  margin-bottom: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  outline: 2px solid var(--clr-white);
+  position: relative;
+  cursor: pointer;
+}
+
+.choiceDiv button:nth-of-type(1):before,
+.choiceDiv button:nth-of-type(2):before,
+.choiceDiv button:nth-of-type(3):before,
+.choiceDiv button:nth-of-type(4):before {
+  content: 'A';
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--clr-white);
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.choiceDiv button:nth-of-type(2):before {
+  content: 'B';
+}
+
+.choiceDiv button:nth-of-type(3):before {
+  content: 'C';
+}
+
+.choiceDiv button:nth-of-type(4):before {
+  content: 'D';
+}
+
+.choiceDiv button:hover::before {
+  color: var(--clr-white);
+}
+
+.choiceDiv button:hover {
+  color: var(--clr-white);
+  background-color: var(--clr-gold);
+  outline: 2px solid var(--clr-gold);
+}
+
+.showAnswers .correct {
+  color: var(--clr-white);
+  background-color: var(--clr-green) !important;
+  outline: 2px solid var(--clr-green) !important;
+}
+
+.showAnswers .incorrect {
+  color: var(--clr-white);
+  background-color: var(--clr-red) !important;
+  outline: 2px solid var(--clr-red) !important;
+}
+
+/* 
+================================
+countdownContainer
+================================
+*/
+
+.countdownContainer {
+  color: var(--clr-white);
+}
