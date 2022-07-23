@@ -5,8 +5,6 @@ amountContainer
 */
 
 .amountContainer {
-  max-width: 950px;
-  min-height: 450px;
   background-color: var(--clr-grey);
   padding: 1rem;
 }

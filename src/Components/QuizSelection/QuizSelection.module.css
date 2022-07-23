@@ -38,7 +38,7 @@ quizSelection
   padding: 0.5rem 1rem;
   border: none;
   background-color: var(--clr-green);
-  color: white;
+  color: var(--clr-white);
   border-radius: 5px;
   cursor: pointer;
 }
