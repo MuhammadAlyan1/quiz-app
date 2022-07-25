@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-gold: #f9a826;
+  --clr-red: #ea8282;
+  --clr-green: #60bf88;
+  --clr-blue: #6066d0b2;
+  --clr-black: #2f527b;
+  --clr-white: #e8edf1;
+  --clr-grey: #212a32;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  padding: 1rem;
+  min-height: 100vh;
+  overflow-y: hidden;
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* 
+===============
+App
+===============
+*/
+.app {
+  /* =============================================================================== */
+  max-width: 950px;
+  min-height: 450px;
+  margin-inline: auto;
+  margin-top: 6rem;
+}
+
+/* 
+================
+quizInfo
+================
+*/
+
+.quizInfo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.quizInfo p {
+  font-size: 0.75rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--clr-white);
+}
