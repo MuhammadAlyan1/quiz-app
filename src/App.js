@@ -1,49 +1,45 @@
-// Hooks
-import { useEffect, useReducer, createContext } from "react";
-
-// components
-import reducer from "./reducer";
-
-// utils
-import generateApiUrl from "./generateApiUrl";
-
-// css
-import "./App.css";
+import { useState, useEffect, useReducer, createContext } from 'react';
+import getQuizzes from './utils/getQuizzes.js';
+import QuizContainer from './Components/QuizContainer/QuizContainer';
+import reducer from './reducer';
+import './App.css';
 
 export const quizContext = createContext(null);
 
 function App() {
-  // variables
-
-  const default_value = {
-    Amount: 10,
+  const defaultValue = {
+    amount: 10,
     listOfQuizzes: [],
-    category: "all",
-    type: "mcqs",
-    difficulty: "all",
+    category: 'generalKnowledge',
+    type: 'mcqs',
+    difficulty: 'easy',
+    isCorrectChoice: true,
+    isResultDisplaying: false,
+    isQuizSelectionDisplaying: true,
+    currentQuizIndex: 0,
+    score: 0,
   };
 
-  const [state, dispatch] = useReducer(reducer, default_value);
-
-  // functions
-
-  async function fetchData() {
-    const apiUrl = generateApiUrl(20, "videoGames", "mcqs", "easy");
-    const response = await fetch(apiUrl);
-    const data = await response.json();
-
-    dispatch({ type: "SET_QUIZZES", payload: data.results });
-  }
+  const [state, dispatch] = useReducer(reducer, defaultValue);
+  // splitting category at uppercase
+  const quizCategory = state.category.split(/(?=[A-Z])/).join(' ');
 
   useEffect(() => {
-    fetchData();
-  }, []);
+    const { amount, category, difficulty } = state;
+    dispatch({
+      type: 'SET_QUIZZES',
+      payload: [...getQuizzes({ amount, category, difficulty })],
+    });
+  }, [state.isQuizSelectionDisplaying]);
 
   return (
-    // ========================= REFACTOR ==================================
-    <quizContext.Provider value={state}>
-      <div className="App">
-        <h1>Quiz App</h1>
+    <quizContext.Provider value={{ state, dispatch }}>
+      <div className="app">
+        <div className="quizInfo">
+          <p className="quiz-category">{quizCategory} Quiz</p>
+          <p className="quiz-difficulty">{state.difficulty}</p>
+        </div>
+        <QuizContainer />
       </div>
     </quizContext.Provider>
   );
