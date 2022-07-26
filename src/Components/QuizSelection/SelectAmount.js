@@ -1,6 +1,13 @@
 import React from 'react';
 import { FaArrowAltCircleDown } from 'react-icons/fa';
 import styles from './SelectAmount.module.css';
+import { motion } from 'framer-motion';
+import {
+  openNewSection,
+  QuizSelectionSubCategoryHeading,
+  amountInput,
+  QuizSelectionSubCategoryNextSectionButton,
+} from '../../utils/framerMotionVariants';
 
 const SelectAmount = ({ amount, setAmount, setIsAmountSelected }) => {
   function validateAmountAndGoToNextSection() {
@@ -9,17 +16,38 @@ const SelectAmount = ({ amount, setAmount, setIsAmountSelected }) => {
   }
 
   return (
-    <section className={styles.amountContainer}>
-      <h1>Quiz Amount</h1>
-      <input
+    <motion.section
+      variants={openNewSection}
+      initial={'hidden'}
+      animate={'visible'}
+      className={styles.amountContainer}
+    >
+      <motion.h1
+        variants={QuizSelectionSubCategoryHeading}
+        initial={'hidden'}
+        animate={'visible'}
+      >
+        Quiz Amount
+      </motion.h1>
+      <motion.input
+        variants={amountInput}
+        initial={'hidden'}
+        animate={'visible'}
         type="number"
         value={amount}
         onChange={(e) => setAmount(Number(e.target.value))}
       />
-      <button type="submit" onClick={validateAmountAndGoToNextSection}>
+      <motion.button
+        variants={QuizSelectionSubCategoryNextSectionButton}
+        initial={'hidden'}
+        animate={'visible'}
+        whileHover={'whileHover'}
+        type="submit"
+        onClick={validateAmountAndGoToNextSection}
+      >
         <FaArrowAltCircleDown />
-      </button>
-    </section>
+      </motion.button>
+    </motion.section>
   );
 };
 
