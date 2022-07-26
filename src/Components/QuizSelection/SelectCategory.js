@@ -1,6 +1,14 @@
 import { useState } from 'react';
 import { FaArrowAltCircleDown } from 'react-icons/fa';
 
+import { motion } from 'framer-motion';
+import {
+  openNewSection,
+  QuizSelectionSubCategoryHeading,
+  quizSelectionOptions,
+  QuizSelectionSubCategoryNextSectionButton,
+} from '../../utils/framerMotionVariants';
+
 import styles from './SelectCategory.module.css';
 
 export default function SelectCategory({
@@ -53,45 +61,77 @@ export default function SelectCategory({
   }
 
   return (
-    <section className={styles.categoriesContainer}>
-      <h1>Select Category</h1>
+    <motion.section
+      variants={openNewSection}
+      initial={'hidden'}
+      animate={'visible'}
+      className={styles.categoriesContainer}
+    >
+      <motion.h1 variants={QuizSelectionSubCategoryHeading}>
+        Select Category
+      </motion.h1>
       <article className={styles.categories}>
-        <div
+        <motion.div
+          variants={quizSelectionOptions}
+          initial={'hidden'}
+          animate={'visible'}
+          whileHover={'whileHover'}
+          whileTap={'whileTap'}
           onClick={selectGeneralKnowledgeCategory}
           className={`${styles.category} ${
             isGeneralKnowledgeSelected && styles.selectedCategory
           }`}
         >
           <p>General Knowledge</p>
-        </div>
-        <div
+        </motion.div>
+        <motion.div
+          variants={quizSelectionOptions}
+          initial={'hidden'}
+          animate={'visible'}
+          whileHover={'whileHover'}
+          whileTap={'whileTap'}
           onClick={selectHistoryCategory}
           className={`${styles.category} ${
             isHistorySelected && styles.selectedCategory
           }`}
         >
           <p>History</p>
-        </div>
-        <div
+        </motion.div>
+        <motion.div
+          variants={quizSelectionOptions}
+          initial={'hidden'}
+          animate={'visible'}
+          whileHover={'whileHover'}
+          whileTap={'whileTap'}
           onClick={selectComputerCategory}
           className={`${styles.category} ${
             isComputerSelected && styles.selectedCategory
           }`}
         >
           <p>Computers</p>
-        </div>
-        <div
+        </motion.div>
+        <motion.div
+          variants={quizSelectionOptions}
+          initial={'hidden'}
+          animate={'visible'}
+          whileHover={'whileHover'}
+          whileTap={'whileTap'}
           onClick={selectVideoGameCategory}
           className={`${styles.category} ${
             isVideoGameSelected && styles.selectedCategory
           }`}
         >
           <p>Video Games</p>
-        </div>
+        </motion.div>
       </article>
-      <button type="button" onClick={selectCategoryAndGoToNextSection}>
+      <motion.button
+        variants={QuizSelectionSubCategoryNextSectionButton}
+        whileHover={'whileHover'}
+        type="button"
+        onClick={selectCategoryAndGoToNextSection}
+      >
         <FaArrowAltCircleDown />
-      </button>
-    </section>
+      </motion.button>
+    </motion.section>
   );
 }
