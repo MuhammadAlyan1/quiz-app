@@ -1,5 +1,12 @@
 import React, { useState } from 'react';
 import { FaArrowAltCircleDown } from 'react-icons/fa';
+import { motion } from 'framer-motion';
+import {
+  openNewSection,
+  QuizSelectionSubCategoryHeading,
+  quizSelectionOptions,
+  QuizSelectionSubCategoryNextSectionButton,
+} from '../../utils/framerMotionVariants';
 import styles from './SelectDifficulty.module.css';
 
 const SelectDifficulty = ({
@@ -39,38 +46,71 @@ const SelectDifficulty = ({
   }
 
   return (
-    <section className={styles.difficultiesContainer}>
-      <h1>Select Difficulty</h1>
+    <motion.section
+      variants={openNewSection}
+      initial={'hidden'}
+      animate={'visible'}
+      className={styles.difficultiesContainer}
+    >
+      <motion.h1
+        variants={QuizSelectionSubCategoryHeading}
+        initial={'hidden'}
+        animate={'visible'}
+      >
+        Select Difficulty
+      </motion.h1>
       <article className={styles.difficulties}>
-        <div
+        <motion.div
+          variants={quizSelectionOptions}
+          initial={'hidden'}
+          animate={'visible'}
+          whileHover={'whileHover'}
+          whileTap={'whileTap'}
           onClick={selectEasyDifficulty}
           className={`${styles.difficulty} ${
             isEasySelected && styles.selectedDifficulty
           }`}
         >
           <p>Easy</p>
-        </div>
-        <div
+        </motion.div>
+        <motion.div
+          variants={quizSelectionOptions}
+          initial={'hidden'}
+          animate={'visible'}
+          whileHover={'whileHover'}
+          whileTap={'whileTap'}
           onClick={selectMediumDifficulty}
           className={`${styles.difficulty} ${
             isMediumSelected && styles.selectedDifficulty
           }`}
         >
           <p>Medium</p>
-        </div>
-        <div
+        </motion.div>
+        <motion.div
+          variants={quizSelectionOptions}
+          initial={'hidden'}
+          animate={'visible'}
+          whileHover={'whileHover'}
+          whileTap={'whileTap'}
           onClick={selectHardDifficulty}
           className={`${styles.difficulty} ${
             isHardSelected && styles.selectedDifficulty
           }`}
         >
           <p>Hard</p>
-        </div>
+        </motion.div>
       </article>
-      <button type="button" onClick={selectDifficultyAndGoToNextSection}>
+      <motion.button
+        variants={QuizSelectionSubCategoryNextSectionButton}
+        initial={'hidden'}
+        animate={'visible'}
+        whileHover={'whileHover'}
+        type="button"
+        onClick={selectDifficultyAndGoToNextSection}
+      >
         <FaArrowAltCircleDown />
-      </button>
-    </section>
+      </motion.button>
+    </motion.section>
   );
 };
 
