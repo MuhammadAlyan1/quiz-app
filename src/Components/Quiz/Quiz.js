@@ -2,6 +2,10 @@ import PropTypes from 'prop-types';
 import React, { useState, useContext, useEffect } from 'react';
 import { quizContext } from '../../App.js';
 import decodeHtmlEntities from '../../utils/decodeHtmlEntities';
+import checkAnswer from './checkAnswer';
+import goToNextQuiz from './goToNextQuiz.js';
+import { motion } from 'framer-motion';
+import { openNewSection, quizContents } from '../../utils/framerMotionVariants';
 
 // css
 import styles from './Quiz.module.css';
@@ -11,49 +15,12 @@ const Quiz = (props) => {
   const [isChoicePicked, setIsChoicePicked] = useState(false);
   const secondsAllowedForQuestion = 30;
   const [countDown, setCountDown] = useState(secondsAllowedForQuestion);
-
   const { value } = props;
-
   let { question, correctAnswer, options } = value;
   const { isCorrectChoice } = state;
 
   question = decodeHtmlEntities(question);
   options = options.map((option) => decodeHtmlEntities(option));
-
-  function goToNextQuiz() {
-    if (isCorrectChoice === false) {
-      dispatch({ type: 'SHOW_RESULT' });
-      return;
-    }
-
-    setIsChoicePicked(false);
-    setCountDown(secondsAllowedForQuestion);
-    dispatch({ type: 'GO_TO_NEXT_QUIZ' });
-  }
-
-  function checkAnswer(e) {
-    if (isChoicePicked) return;
-
-    const buttons = e.target.parentElement.children;
-
-    Array.from(buttons).forEach((button) => {
-      // removing class from every button that is not correct
-      if (!button.classList.contains(`${styles.correct}`)) {
-        button.className = '';
-      }
-    });
-
-    if (!e.target.classList.contains(`${styles.correct}`)) {
-      e.target.classList.add(`${styles.incorrect}`);
-      dispatch({ type: 'INCORRECT_CHOICE' });
-    }
-
-    if (e.target.classList.contains(`${styles.correct}`)) {
-      dispatch({ type: 'INCREASE_SCORE' });
-    }
-
-    setIsChoicePicked(true);
-  }
 
   useEffect(() => {
     const countDownInterval = setInterval(() => {
@@ -78,9 +45,21 @@ const Quiz = (props) => {
   if (value === undefined) return;
 
   return (
-    <section className={styles.quiz}>
+    <motion.section
+      variants={openNewSection}
+      initial={'hidden'}
+      animate={'visible'}
+      className={styles.quiz}
+    >
       <div className={styles.questionDiv}>
-        <p className={styles.question}>{question}</p>
+        <motion.p
+          variants={quizContents}
+          initial={'hidden'}
+          animate={'visible'}
+          className={styles.question}
+        >
+          {question}
+        </motion.p>
       </div>
       <div
         className={
@@ -90,31 +69,52 @@ const Quiz = (props) => {
         }
       >
         {options.map((choice, index) => (
-          <button
+          <motion.button
+            variants={quizContents}
+            initial={'hidden'}
+            animate={'visible'}
             type="button"
-            onClick={(e) => checkAnswer(e)}
+            onClick={(e) =>
+              checkAnswer({ e, isChoicePicked, setIsChoicePicked, dispatch })
+            }
             className={
               correctAnswer === options[index] ? `${styles.correct}` : ' '
             }
             key={index}
           >
             {choice}
-          </button>
+          </motion.button>
         ))}
       </div>
       {isChoicePicked && (
-        <button
+        <motion.button
+          variants={quizContents}
+          initial={'hidden'}
+          animate={'visible'}
           type="button"
-          onClick={() => goToNextQuiz()}
+          onClick={() =>
+            goToNextQuiz({
+              isCorrectChoice,
+              setIsChoicePicked,
+              setCountDown,
+              dispatch,
+              secondsAllowedForQuestion,
+            })
+          }
           className={`${styles.nextBtn}`}
         >
           next
-        </button>
+        </motion.button>
       )}
-      <p className={`${styles.countdownContainer}`}>
+      <motion.p
+        variants={quizContents}
+        initial={'hidden'}
+        animate={'visible'}
+        className={`${styles.countdownContainer}`}
+      >
         Time Remaining: {countDown}s
-      </p>
-    </section>
+      </motion.p>
+    </motion.section>
   );
 };
 
