@@ -17,10 +17,6 @@ export default function QuizSelection() {
 
   useEffect(() => {
     if (isAmountSelected && isCategorySelected && isDifficultySelected) {
-      console.log('amount: ', amount);
-      console.log('category: ', category);
-      console.log('difficulty: ', difficulty);
-
       dispatch({
         type: 'SET_QUIZ_DETAILS',
         payload: { amount, category, difficulty },
