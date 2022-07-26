@@ -35,10 +35,12 @@ function App() {
   return (
     <quizContext.Provider value={{ state, dispatch }}>
       <div className="app">
-        <div className="quizInfo">
-          <p className="quiz-category">{quizCategory} Quiz</p>
-          <p className="quiz-difficulty">{state.difficulty}</p>
-        </div>
+        {!state.isQuizSelectionDisplaying && (
+          <div className="quizInfo">
+            <p className="quiz-category">{quizCategory} Quiz</p>
+            <p className="quiz-difficulty">{state.difficulty}</p>
+          </div>
+        )}
         <QuizContainer />
       </div>
     </quizContext.Provider>
